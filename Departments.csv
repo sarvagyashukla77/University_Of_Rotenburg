@@ -1,0 +1,113 @@
+,id_,department,Staff_members_strength,Head_of_Department,coordinator_name,no_of_labrotatries,year_of_inclusion,no_of_students,Stream
+0,3204,Mathematics,16,Ashley Marshall,Thomas Benson,9,1965-06-05,220,Non_Medical
+1,3394,Physics,26,Paul Jimenez,Stacey Schmitt,9,1972-05-09,312,Humanitarian
+2,3341,Agriculture,24,Stacy Trevino,Mrs. Kristin Young DVM,8,1961-12-12,408,Social_Work
+3,3246,Animal Science,32,Cameron Greene,Jeremy King,9,1962-12-03,194,Medical
+4,3226,Food Science,28,Timothy Valdez,Laura Rodriguez,9,1980-06-08,162,Medical
+5,3384,Forestry,24,Jennifer Bennett,Kimberly George,4,1963-07-31,252,Medical
+6,3206,Marine Biology,17,Brandon Kline,Eric Garcia,8,1975-04-23,442,Social_Work
+7,3270,Veterinary Medicine,30,Ryan Vargas,Megan Stewart,8,1956-05-20,464,Non_Medical
+8,3363,Chemistry,16,Lisa Bailey,Tara Schultz,4,1976-10-07,152,Humanitarian
+9,3245,Biology,18,Jeffrey Cox,David Hickman,5,1967-08-10,423,Non_Medical
+10,3309,Computer Science,28,Joel Thompson,April Hall,3,1975-01-21,301,Non_Medical
+11,3224,Engineering,17,Samantha Ali,Ryan Hall,8,1980-07-07,274,Medical
+12,3390,Psychology,19,James Reyes,Sean Costa,9,1982-06-15,320,Social_Work
+13,3400,Sociology,24,Ashley Jones,Alexander Evans,6,1981-07-28,175,Humanitarian
+14,3313,Economics,25,Pamela Shaw,Brittany Johnson,3,1950-12-24,375,Social_Work
+15,3352,Political Science,31,David White,Ryan Castillo,3,1959-08-17,352,Social_Work
+16,3387,History,32,Angela Snyder,Michelle Savage,3,1993-06-12,240,Humanitarian
+17,3212,English Literature,19,Paul Martinez,Sean James,4,1990-02-27,303,Humanitarian
+18,3327,Foreign Languages,16,Eddie Allen,Daniel Hart,9,1967-06-25,344,Social_Work
+19,3360,Philosophy,22,Isaiah Grimes,Scott Fisher,5,1979-01-15,189,Humanitarian
+20,3221,Art History,18,Theresa Hudson,David Garcia,7,1967-02-25,312,Medical
+21,3373,Music,21,Terry Stokes,Allison Davila,7,1972-08-15,460,Humanitarian
+22,3342,Film Studies,28,John Davis,Elizabeth Peterson,8,1987-04-14,410,Humanitarian
+23,3396,Business Administration,27,Noah Scott,Sandy Wong,4,1953-08-03,154,Arts
+24,3209,Marketing,23,Jacqueline Hines,Kevin Baker,8,1985-02-19,335,Medical
+25,3231,Finance,17,Anthony Simon,Crystal Lewis,7,1973-03-23,213,Medical
+26,3215,Accounting,16,Megan Mendez,Scott Williams,9,1963-03-19,276,Medical
+27,3283,Management,19,Courtney Garcia,Dwayne Anderson,3,1965-09-21,478,Social_Work
+28,3303,Human Resources,20,Maria Lopez,Julie Williams,3,1958-08-27,413,Non_Medical
+29,3385,Entrepreneurship,29,Randy Cortez,Mary Hendricks,4,1988-08-16,310,Medical
+30,3219,Environmental Science,29,Cindy Mosley,Austin Cook,6,1984-03-25,150,Non_Medical
+31,3267,Geology,27,Deborah Nelson,Jessica Peters,4,1985-08-28,449,Arts
+32,3213,Astronomy,28,John Wheeler,Wendy Jackson,4,1961-01-04,335,Non_Medical
+33,3358,Anthropology,25,Deborah Willis,Kathy Gibson,4,1987-01-30,258,Medical
+34,3386,Archaeology,23,Joseph Bishop,Lauren Mcdonald,8,1987-07-20,162,Non_Medical
+35,3295,Education,29,William Watson,William Hopkins,7,1958-05-10,430,Arts
+36,3346,Health Sciences,26,Cheryl Taylor,Mary Evans,3,1975-10-19,198,Social_Work
+37,3261,Nursing,27,Jordan Miller,Benjamin Lamb,8,1970-08-23,412,Arts
+38,3293,Medicine,25,John Allison,Deborah Smith,5,1975-04-20,347,Arts
+39,3249,Dentistry,24,Christopher Mcgee,Dr. Jessica Wells DDS,5,1981-08-05,153,Non_Medical
+40,3321,Pharmacy,22,Michael Brady,Austin Long,9,1985-04-20,281,Arts
+41,3395,Law,17,Daniel Jones,William Edwards,4,1983-09-02,346,Humanitarian
+42,3258,Theater,32,Sabrina Rose,Kyle Rasmussen,8,1988-04-29,216,Non_Medical
+43,3290,Dance,23,Jonathan Hoffman,Amber Peterson,5,1967-08-02,326,Non_Medical
+44,3251,Physical Education,32,Leslie Anderson,Eric Fox,3,1987-01-04,223,Humanitarian
+45,3355,Nutrition,25,Julie Schneider,Lisa Johnson,6,1983-09-03,178,Social_Work
+46,3339,Communication Studies,30,Sarah Mills,Anthony Lee,5,1966-08-22,163,Social_Work
+47,3392,Media Studies,20,Angela Herring,Margaret Marshall,4,1980-04-09,345,Humanitarian
+48,3280,Information Technology,28,Robert Martin,Kristen Galvan,8,1974-03-12,389,Arts
+49,3227,Statistics,20,Sherry Davidson,Jennifer Taylor,7,1956-09-29,486,Humanitarian
+50,3235,Geography,17,Krystal Brown,Paul Parks,9,1973-06-08,307,Social_Work
+51,3287,Urban Planning,16,Michael Lozano,Brady Cook,7,1971-02-02,290,Non_Medical
+52,3374,Public Administration,29,Mario Quinn,Kevin Morris,8,1986-08-05,304,Non_Medical
+53,3347,Social Work,31,Christian Williams,Kristen Valenzuela,9,1973-12-29,288,Arts
+54,3263,Criminal Justice,21,John Nguyen,Nathan Calhoun,5,1985-03-02,345,Humanitarian
+55,3242,Religious Studies,19,Paul Morton,Kevin Vargas,5,1952-06-01,411,Social_Work
+56,3302,Womens Studies,18,Daniel Rios,Brandon Tucker,4,1961-02-13,418,Humanitarian
+57,3294,Gender Studies,31,Karen Glover,Claire Ward,8,1980-05-19,212,Social_Work
+58,3284,Architecture,31,Jeremy Coleman,Benjamin Henry,9,1985-07-17,290,Social_Work
+59,3369,Urban Design,18,Michelle Bennett,Amber Morales,8,1977-10-01,473,Humanitarian
+60,3255,Linguistics,29,Regina Singleton,Haley Greer,8,1969-02-27,257,Arts
+61,3296,Public Health,23,Amanda Brewer,Carl Nielsen,9,1957-03-13,464,Arts
+62,3371,Industrial Engineering,29,John Brown,Bill Huang,8,1987-06-15,221,Social_Work
+63,3325,Mechanical Engineering,17,Jeffrey Paul,Michael Miller,7,1990-05-27,393,Social_Work
+64,3214,Civil Engineering,30,Jason Anderson,Ray Kim,4,1956-05-29,404,Social_Work
+65,3365,Electrical Engineering,28,James Mcintyre,Emily Herrera,9,1987-02-01,326,Non_Medical
+66,3310,Chemical Engineering,17,John Vang,Jennifer Evans,5,1985-01-28,291,Social_Work
+67,3216,Materials Science and Engineering,31,Melvin Richardson,Laura Burgess,3,1980-10-30,340,Arts
+68,3232,Biomedical Engineering,18,Michael Kramer,Crystal Williams,4,1963-07-16,407,Arts
+69,3276,Environmental Engineering,19,Cynthia Owens,Sheena Beasley,5,1966-05-26,263,Social_Work
+70,3300,Computer Engineering,23,Joann Zamora,Taylor Ingram,7,1982-04-10,228,Social_Work
+71,3256,Robotics,32,Robert Valentine,Christine Collier,5,1953-03-11,389,Social_Work
+72,3273,Biotechnology,25,Mike Fernandez,Gerald Woodard,3,1987-12-29,240,Medical
+73,3398,Bioinformatics,24,Jessica Bowman,Eric Singleton,5,1989-05-22,366,Medical
+74,3250,Neuroscience,25,Natalie Castaneda,Mr. Christian Taylor,9,1974-02-06,295,Humanitarian
+75,3337,Cognitive Science,28,Kevin Khan,Kevin Hood,7,1955-06-30,360,Humanitarian
+76,3265,Developmental Biology,21,Paula Anderson,James Burns,3,1983-01-02,248,Social_Work
+77,3378,Genomics,25,Michael Tran,Katie Edwards,5,1991-02-01,427,Arts
+78,3381,Humanities,16,Seth Nguyen,Dr. Jennifer Lambert,3,1972-02-03,180,Arts
+79,3275,Fine Arts,31,Cheryl Downs,Michael Lucero,3,1985-12-21,204,Social_Work
+80,3202,Graphic Design,31,Marisa Watson,Mr. Andrew Powell,4,1949-12-04,467,Arts
+81,3345,Interior Design,19,Mia Willis,Angela Wright,3,1971-01-27,428,Arts
+82,3377,Fashion Design,26,Brett Wallace,Daniel Abbott,5,1988-07-03,462,Social_Work
+83,3320,Industrial Design,24,Manuel Powers,Timothy Hess,7,1975-01-28,159,Arts
+84,3264,Digital Media,32,Lisa Richardson,Cristian Taylor,9,1974-06-08,239,Social_Work
+85,3266,Animation,21,Michael Olsen,Mr. Cameron Kim MD,6,1991-05-06,393,Arts
+86,3393,Game Design,27,Michele Davis,Michael Jones,7,1985-01-16,346,Social_Work
+87,3311,Sports Science,30,Jessica Graham,Emily Smith,7,1979-12-27,434,Humanitarian
+88,3241,Kinesiology,23,Amanda Campos,Megan Le,6,1990-04-09,159,Humanitarian
+89,3277,Rehabilitation Science,17,Kristen Jones,Brian Frye,3,1951-09-29,454,Humanitarian
+90,3289,Library Science,28,Victoria Wells,Frank Foley PhD,5,1976-04-15,279,Social_Work
+91,3367,Information Science,17,Erica Keller,David Powell,5,1976-03-27,438,Arts
+92,3399,Archival Science,21,Brian Thompson,Amy Parks,7,1989-07-08,273,Humanitarian
+93,3233,Data Science,18,Amy Maldonado,Bradley Ryan,6,1979-11-30,402,Social_Work
+94,3336,Machine Learning,23,Stephanie Vasquez,David Perez,8,1989-06-21,370,Humanitarian
+95,3389,Artificial Intelligence,16,Lori Carroll,Emily Simpson,6,1958-08-05,190,Medical
+96,3298,Cybersecurity,17,Andrea Wilson,Marissa Brooks,5,1958-02-08,465,Humanitarian
+97,3210,Network Security,17,Amanda Robbins,Thomas Brown,4,1951-06-18,304,Arts
+98,3331,Forensic Science,21,Pamela Campbell,Jonathan Gross,3,1991-07-10,325,Non_Medical
+99,3201,Criminology,22,Veronica Clark,Paula Miller,7,1955-02-02,209,Social_Work
+100,3247,Counterterrorism,18,Julie Stout,Keith Oliver,5,1975-10-26,457,Arts
+101,3383,International Law,26,James Ramos,Deborah Hernandez,5,1989-10-24,217,Social_Work
+102,3254,Human Rights Law,31,Daniel Bailey,Dennis Garrison,5,1975-10-25,162,Non_Medical
+103,3253,Intellectual Property Law,21,Jeffrey Sullivan,Nicole Hall,4,1970-07-14,457,Arts
+104,3326,Health Law,25,Andrea Schneider,Stephen Perez,3,1964-09-26,249,Arts
+105,3244,Immigration Law,17,Steven Garcia,Sarah Gardner,3,1952-09-01,420,Medical
+106,3372,Family Law,28,Shannon Foley,David Skinner,9,1978-08-02,293,Social_Work
+107,3286,Corporate Law,20,William Acevedo,Laura Ramirez,5,1957-11-15,485,Humanitarian
+108,3299,Real Estate Law,22,Logan Oconnor,Randy Mccarthy,5,1992-08-10,194,Non_Medical
+109,3353,Tax Law,23,Justin Mccoy,David Bray,4,1954-11-23,301,Social_Work
+110,3307,Maritime Law,18,Tamara Fleming MD,Rachel Parker,6,1959-04-13,453,Social_Work
+111,3306,Space Law,20,Nicole Oliver,Wanda Trevino,3,1960-07-02,289,Humanitarian

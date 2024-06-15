@@ -1,0 +1,561 @@
+,id_,standard,department,duration_in_year,eligiblity,month_of_commencement,semestera_included,integration_availability,placement_grade_,NAAC_grades
+0,69493,Bachelor's,Mathematics,3rd,Intermediate,July,6,Available,A1,B++
+1,69512,Bachelor's,Physics,3rd,Intermediate,July,6,Available,A2,B++
+2,65566,Bachelor's,Agriculture,3rd,Intermediate,July,6,Available,C,D (Not Accredited)
+3,67955,Bachelor's,Animal Science,3rd,Intermediate,July,6,Available,A2,A++
+4,67142,Bachelor's,Food Science,3rd,Intermediate,July,6,Available,C,B
+5,69250,Bachelor's,Forestry,3rd,Intermediate,July,6,Available,B1,A
+6,67541,Bachelor's,Marine Biology,3rd,Intermediate,July,6,Available,A1,A+
+7,68256,Bachelor's,Veterinary Medicine,3rd,Intermediate,July,6,Available,B1,C
+8,68257,Bachelor's,Chemistry,3rd,Intermediate,July,6,Available,C,A
+9,66747,Bachelor's,Biology,3rd,Intermediate,July,6,Available,A3,A
+10,69995,Bachelor's,Computer Science,3rd,Intermediate,July,6,Available,A1,B
+11,65289,Bachelor's,Engineering,3rd,Intermediate,July,6,Available,B1,C
+12,66662,Bachelor's,Psychology,3rd,Intermediate,July,6,Available,A3,B+
+13,67031,Bachelor's,Sociology,3rd,Intermediate,July,6,Available,A1,B
+14,68765,Bachelor's,Economics,3rd,Intermediate,July,6,Available,A1,A++
+15,65837,Bachelor's,Political Science,3rd,Intermediate,July,6,Available,A1,A++
+16,66965,Bachelor's,History,3rd,Intermediate,July,6,Available,A2,B++
+17,68397,Bachelor's,English Literature,3rd,Intermediate,July,6,Available,A2,A+
+18,69897,Bachelor's,Foreign Languages,3rd,Intermediate,July,6,Available,B2,A++
+19,69758,Bachelor's,Philosophy,3rd,Intermediate,July,6,Available,A1,A+
+20,66325,Bachelor's,Art History,3rd,Intermediate,July,6,Available,B2,C
+21,66540,Bachelor's,Music,3rd,Intermediate,July,6,Available,A3,A
+22,69348,Bachelor's,Film Studies,3rd,Intermediate,July,6,Available,B2,A+
+23,69221,Bachelor's,Business Administration,3rd,Intermediate,July,6,Available,C,D (Not Accredited)
+24,67125,Bachelor's,Marketing,3rd,Intermediate,July,6,Available,A1,A
+25,68287,Bachelor's,Finance,3rd,Intermediate,July,6,Available,A3,C
+26,65047,Bachelor's,Accounting,3rd,Intermediate,July,6,Available,C,C
+27,65604,Bachelor's,Management,3rd,Intermediate,July,6,Available,C,B++
+28,68568,Bachelor's,Human Resources,3rd,Intermediate,July,6,Available,A1,A
+29,68622,Bachelor's,Entrepreneurship,3rd,Intermediate,July,6,Available,A2,B+
+30,65686,Bachelor's,Environmental Science,3rd,Intermediate,July,6,Available,B1,B
+31,69643,Bachelor's,Geology,3rd,Intermediate,July,6,Available,B2,B
+32,65510,Bachelor's,Astronomy,3rd,Intermediate,July,6,Available,B1,D (Not Accredited)
+33,68914,Bachelor's,Anthropology,3rd,Intermediate,July,6,Available,C,D (Not Accredited)
+34,68454,Bachelor's,Archaeology,3rd,Intermediate,July,6,Available,A3,A
+35,67706,Bachelor's,Education,3rd,Intermediate,July,6,Available,A3,C
+36,66783,Bachelor's,Health Sciences,3rd,Intermediate,July,6,Available,C,B++
+37,67566,Bachelor's,Nursing,3rd,Intermediate,July,6,Available,C,B
+38,66179,Bachelor's,Medicine,3rd,Intermediate,July,6,Available,A1,B++
+39,67453,Bachelor's,Dentistry,3rd,Intermediate,July,6,Available,A3,A++
+40,68088,Bachelor's,Pharmacy,3rd,Intermediate,July,6,Available,B2,C
+41,65495,Bachelor's,Law,3rd,Intermediate,July,6,Available,A1,A++
+42,68899,Bachelor's,Theater,3rd,Intermediate,July,6,Available,B1,B
+43,66001,Bachelor's,Dance,3rd,Intermediate,July,6,Available,B1,A
+44,65436,Bachelor's,Physical Education,3rd,Intermediate,July,6,Available,B1,B+
+45,65795,Bachelor's,Nutrition,3rd,Intermediate,July,6,Available,C,C
+46,66092,Bachelor's,Communication Studies,3rd,Intermediate,July,6,Available,A1,B+
+47,69170,Bachelor's,Media Studies,3rd,Intermediate,July,6,Available,A1,A+
+48,65884,Bachelor's,Information Technology,3rd,Intermediate,July,6,Available,A1,C
+49,67197,Bachelor's,Statistics,3rd,Intermediate,July,6,Available,A3,B++
+50,68334,Bachelor's,Geography,3rd,Intermediate,July,6,Available,B1,B+
+51,65400,Bachelor's,Urban Planning,3rd,Intermediate,July,6,Available,A1,A++
+52,68068,Bachelor's,Public Administration,3rd,Intermediate,July,6,Available,B2,D (Not Accredited)
+53,69062,Bachelor's,Social Work,3rd,Intermediate,July,6,Available,A2,D (Not Accredited)
+54,66251,Bachelor's,Criminal Justice,3rd,Intermediate,July,6,Available,C,A
+55,67461,Bachelor's,Religious Studies,3rd,Intermediate,July,6,Available,A1,A
+56,67962,Bachelor's,Womens Studies,3rd,Intermediate,July,6,Available,A1,B++
+57,67195,Bachelor's,Gender Studies,3rd,Intermediate,July,6,Available,B2,D (Not Accredited)
+58,65458,Bachelor's,Architecture,3rd,Intermediate,July,6,Available,A2,A++
+59,66562,Bachelor's,Urban Design,3rd,Intermediate,July,6,Available,A1,B++
+60,69253,Bachelor's,Linguistics,3rd,Intermediate,July,6,Available,B1,B++
+61,65070,Bachelor's,Public Health,3rd,Intermediate,July,6,Available,A1,B+
+62,65968,Bachelor's,Industrial Engineering,3rd,Intermediate,July,6,Available,B1,A++
+63,68770,Bachelor's,Mechanical Engineering,3rd,Intermediate,July,6,Available,A2,A++
+64,66466,Bachelor's,Civil Engineering,3rd,Intermediate,July,6,Available,B1,A+
+65,68261,Bachelor's,Electrical Engineering,3rd,Intermediate,July,6,Available,A1,A
+66,65841,Bachelor's,Chemical Engineering,3rd,Intermediate,July,6,Available,A2,A
+67,65084,Bachelor's,Materials Science and Engineering,3rd,Intermediate,July,6,Available,A1,A+
+68,65071,Bachelor's,Biomedical Engineering,3rd,Intermediate,July,6,Available,A1,B++
+69,65527,Bachelor's,Environmental Engineering,3rd,Intermediate,July,6,Available,A3,C
+70,67540,Bachelor's,Computer Engineering,3rd,Intermediate,July,6,Available,A3,B+
+71,66993,Bachelor's,Robotics,3rd,Intermediate,July,6,Available,A2,B+
+72,66552,Bachelor's,Biotechnology,3rd,Intermediate,July,6,Available,A1,D (Not Accredited)
+73,67573,Bachelor's,Bioinformatics,3rd,Intermediate,July,6,Available,A3,A
+74,65152,Bachelor's,Neuroscience,3rd,Intermediate,July,6,Available,A2,C
+75,69420,Bachelor's,Cognitive Science,3rd,Intermediate,July,6,Available,A3,D (Not Accredited)
+76,67615,Bachelor's,Developmental Biology,3rd,Intermediate,July,6,Available,A3,D (Not Accredited)
+77,66615,Bachelor's,Genomics,3rd,Intermediate,July,6,Available,B1,A++
+78,69621,Bachelor's,Humanities,3rd,Intermediate,July,6,Available,B1,C
+79,65999,Bachelor's,Fine Arts,3rd,Intermediate,July,6,Available,B2,D (Not Accredited)
+80,67521,Bachelor's,Graphic Design,3rd,Intermediate,July,6,Available,A1,B++
+81,65829,Bachelor's,Interior Design,3rd,Intermediate,July,6,Available,B2,A
+82,65681,Bachelor's,Fashion Design,3rd,Intermediate,July,6,Available,A1,A+
+83,66631,Bachelor's,Industrial Design,3rd,Intermediate,July,6,Available,C,B++
+84,68012,Bachelor's,Digital Media,3rd,Intermediate,July,6,Available,A2,A
+85,65262,Bachelor's,Animation,3rd,Intermediate,July,6,Available,A2,A
+86,66132,Bachelor's,Game Design,3rd,Intermediate,July,6,Available,B1,B
+87,68663,Bachelor's,Sports Science,3rd,Intermediate,July,6,Available,A3,A++
+88,68329,Bachelor's,Kinesiology,3rd,Intermediate,July,6,Available,A2,A++
+89,65560,Bachelor's,Rehabilitation Science,3rd,Intermediate,July,6,Available,A2,B+
+90,67137,Bachelor's,Library Science,3rd,Intermediate,July,6,Available,B2,B+
+91,66025,Bachelor's,Information Science,3rd,Intermediate,July,6,Available,A2,A
+92,66057,Bachelor's,Archival Science,3rd,Intermediate,July,6,Available,A1,B++
+93,66116,Bachelor's,Data Science,3rd,Intermediate,July,6,Available,B1,D (Not Accredited)
+94,69464,Bachelor's,Machine Learning,3rd,Intermediate,July,6,Available,A2,A+
+95,66601,Bachelor's,Artificial Intelligence,3rd,Intermediate,July,6,Available,A3,A++
+96,65937,Bachelor's,Cybersecurity,3rd,Intermediate,July,6,Available,C,D (Not Accredited)
+97,66956,Bachelor's,Network Security,3rd,Intermediate,July,6,Available,A1,B
+98,67821,Bachelor's,Forensic Science,3rd,Intermediate,July,6,Available,C,D (Not Accredited)
+99,68580,Bachelor's,Criminology,3rd,Intermediate,July,6,Available,B2,C
+100,66019,Bachelor's,Counterterrorism,3rd,Intermediate,July,6,Available,C,A
+101,67201,Bachelor's,International Law,3rd,Intermediate,July,6,Available,C,B
+102,68126,Bachelor's,Human Rights Law,3rd,Intermediate,July,6,Available,B1,B++
+103,69068,Bachelor's,Intellectual Property Law,3rd,Intermediate,July,6,Available,A2,B
+104,67729,Bachelor's,Health Law,3rd,Intermediate,July,6,Available,C,B+
+105,65062,Bachelor's,Immigration Law,3rd,Intermediate,July,6,Available,B1,B+
+106,67974,Bachelor's,Family Law,3rd,Intermediate,July,6,Available,B1,A+
+107,66419,Bachelor's,Corporate Law,3rd,Intermediate,July,6,Available,B1,B+
+108,69804,Bachelor's,Real Estate Law,3rd,Intermediate,July,6,Available,A2,B
+109,65592,Bachelor's,Tax Law,3rd,Intermediate,July,6,Available,B1,A++
+110,65446,Bachelor's,Maritime Law,3rd,Intermediate,July,6,Available,B2,B+
+111,68254,Bachelor's,Space Law,3rd,Intermediate,July,6,Available,B2,B+
+112,69281,Master's,Mathematics,2nd,Bachelor's,August,4,Available,A3,A
+113,68918,Master's,Physics,2nd,Bachelor's,August,4,Available,C,A
+114,69146,Master's,Agriculture,2nd,Bachelor's,August,4,Available,B2,A++
+115,68658,Master's,Animal Science,2nd,Bachelor's,August,4,Available,A3,A++
+116,65209,Master's,Food Science,2nd,Bachelor's,August,4,Available,C,A
+117,67966,Master's,Forestry,2nd,Bachelor's,August,4,Available,B1,D (Not Accredited)
+118,67105,Master's,Marine Biology,2nd,Bachelor's,August,4,Available,C,D (Not Accredited)
+119,67539,Master's,Veterinary Medicine,2nd,Bachelor's,August,4,Available,B2,A
+120,66404,Master's,Chemistry,2nd,Bachelor's,August,4,Available,C,A
+121,68886,Master's,Biology,2nd,Bachelor's,August,4,Available,A1,B+
+122,66843,Master's,Computer Science,2nd,Bachelor's,August,4,Available,C,A
+123,69019,Master's,Engineering,2nd,Bachelor's,August,4,Available,B2,A++
+124,67768,Master's,Psychology,2nd,Bachelor's,August,4,Available,C,A++
+125,66364,Master's,Sociology,2nd,Bachelor's,August,4,Available,C,B++
+126,69577,Master's,Economics,2nd,Bachelor's,August,4,Available,A3,B++
+127,67372,Master's,Political Science,2nd,Bachelor's,August,4,Available,B2,B
+128,69353,Master's,History,2nd,Bachelor's,August,4,Available,A3,A++
+129,68577,Master's,English Literature,2nd,Bachelor's,August,4,Available,A3,A+
+130,66063,Master's,Foreign Languages,2nd,Bachelor's,August,4,Available,A1,A++
+131,67087,Master's,Philosophy,2nd,Bachelor's,August,4,Available,C,A++
+132,67561,Master's,Art History,2nd,Bachelor's,August,4,Available,A3,A
+133,67039,Master's,Music,2nd,Bachelor's,August,4,Available,C,A+
+134,66285,Master's,Film Studies,2nd,Bachelor's,August,4,Available,A2,B
+135,67794,Master's,Business Administration,2nd,Bachelor's,August,4,Available,A1,A++
+136,66703,Master's,Marketing,2nd,Bachelor's,August,4,Available,A1,D (Not Accredited)
+137,67174,Master's,Finance,2nd,Bachelor's,August,4,Available,B2,A
+138,69781,Master's,Accounting,2nd,Bachelor's,August,4,Available,A2,D (Not Accredited)
+139,65759,Master's,Management,2nd,Bachelor's,August,4,Available,A1,A+
+140,68322,Master's,Human Resources,2nd,Bachelor's,August,4,Available,A1,A+
+141,65564,Master's,Entrepreneurship,2nd,Bachelor's,August,4,Available,A1,A
+142,68038,Master's,Environmental Science,2nd,Bachelor's,August,4,Available,B2,A++
+143,69947,Master's,Geology,2nd,Bachelor's,August,4,Available,A1,B++
+144,68597,Master's,Astronomy,2nd,Bachelor's,August,4,Available,B1,A+
+145,68750,Master's,Anthropology,2nd,Bachelor's,August,4,Available,A3,C
+146,68515,Master's,Archaeology,2nd,Bachelor's,August,4,Available,B2,B+
+147,65656,Master's,Education,2nd,Bachelor's,August,4,Available,C,B++
+148,66543,Master's,Health Sciences,2nd,Bachelor's,August,4,Available,A2,D (Not Accredited)
+149,65728,Master's,Nursing,2nd,Bachelor's,August,4,Available,A1,D (Not Accredited)
+150,67702,Master's,Medicine,2nd,Bachelor's,August,4,Available,A1,D (Not Accredited)
+151,65470,Master's,Dentistry,2nd,Bachelor's,August,4,Available,B2,B
+152,69672,Master's,Pharmacy,2nd,Bachelor's,August,4,Available,A1,A+
+153,67741,Master's,Law,2nd,Bachelor's,August,4,Available,B2,B
+154,66352,Master's,Theater,2nd,Bachelor's,August,4,Available,B1,C
+155,68529,Master's,Dance,2nd,Bachelor's,August,4,Available,A1,C
+156,69064,Master's,Physical Education,2nd,Bachelor's,August,4,Available,A2,C
+157,66669,Master's,Nutrition,2nd,Bachelor's,August,4,Available,B1,A++
+158,69687,Master's,Communication Studies,2nd,Bachelor's,August,4,Available,B2,B++
+159,66058,Master's,Media Studies,2nd,Bachelor's,August,4,Available,A2,B
+160,65023,Master's,Information Technology,2nd,Bachelor's,August,4,Available,B1,B
+161,68581,Master's,Statistics,2nd,Bachelor's,August,4,Available,A1,A+
+162,69375,Master's,Geography,2nd,Bachelor's,August,4,Available,A2,D (Not Accredited)
+163,66666,Master's,Urban Planning,2nd,Bachelor's,August,4,Available,A1,D (Not Accredited)
+164,65993,Master's,Public Administration,2nd,Bachelor's,August,4,Available,A1,B++
+165,67110,Master's,Social Work,2nd,Bachelor's,August,4,Available,A2,A+
+166,65558,Master's,Criminal Justice,2nd,Bachelor's,August,4,Available,A3,B+
+167,65978,Master's,Religious Studies,2nd,Bachelor's,August,4,Available,C,C
+168,68875,Master's,Womens Studies,2nd,Bachelor's,August,4,Available,B2,D (Not Accredited)
+169,68609,Master's,Gender Studies,2nd,Bachelor's,August,4,Available,A3,D (Not Accredited)
+170,69803,Master's,Architecture,2nd,Bachelor's,August,4,Available,A3,B+
+171,66096,Master's,Urban Design,2nd,Bachelor's,August,4,Available,B2,A+
+172,65508,Master's,Linguistics,2nd,Bachelor's,August,4,Available,B1,A+
+173,69664,Master's,Public Health,2nd,Bachelor's,August,4,Available,A1,B
+174,68011,Master's,Industrial Engineering,2nd,Bachelor's,August,4,Available,A2,B+
+175,66757,Master's,Mechanical Engineering,2nd,Bachelor's,August,4,Available,A3,B+
+176,67878,Master's,Civil Engineering,2nd,Bachelor's,August,4,Available,A3,A++
+177,65137,Master's,Electrical Engineering,2nd,Bachelor's,August,4,Available,C,D (Not Accredited)
+178,65890,Master's,Chemical Engineering,2nd,Bachelor's,August,4,Available,A3,B
+179,67218,Master's,Materials Science and Engineering,2nd,Bachelor's,August,4,Available,A3,B
+180,66903,Master's,Biomedical Engineering,2nd,Bachelor's,August,4,Available,B2,B++
+181,68162,Master's,Environmental Engineering,2nd,Bachelor's,August,4,Available,A1,A
+182,65088,Master's,Computer Engineering,2nd,Bachelor's,August,4,Available,C,B
+183,68067,Master's,Robotics,2nd,Bachelor's,August,4,Available,C,A
+184,65020,Master's,Biotechnology,2nd,Bachelor's,August,4,Available,B2,A
+185,65880,Master's,Bioinformatics,2nd,Bachelor's,August,4,Available,A1,D (Not Accredited)
+186,68643,Master's,Neuroscience,2nd,Bachelor's,August,4,Available,B1,C
+187,69156,Master's,Cognitive Science,2nd,Bachelor's,August,4,Available,B2,A++
+188,67144,Master's,Developmental Biology,2nd,Bachelor's,August,4,Available,A1,B+
+189,67018,Master's,Genomics,2nd,Bachelor's,August,4,Available,A1,B++
+190,65611,Master's,Humanities,2nd,Bachelor's,August,4,Available,B2,C
+191,66219,Master's,Fine Arts,2nd,Bachelor's,August,4,Available,B1,A+
+192,68302,Master's,Graphic Design,2nd,Bachelor's,August,4,Available,A3,A++
+193,65504,Master's,Interior Design,2nd,Bachelor's,August,4,Available,B2,B+
+194,69405,Master's,Fashion Design,2nd,Bachelor's,August,4,Available,A2,B
+195,67275,Master's,Industrial Design,2nd,Bachelor's,August,4,Available,B2,A+
+196,65973,Master's,Digital Media,2nd,Bachelor's,August,4,Available,A3,B+
+197,67605,Master's,Animation,2nd,Bachelor's,August,4,Available,C,B+
+198,67363,Master's,Game Design,2nd,Bachelor's,August,4,Available,A1,A+
+199,65145,Master's,Sports Science,2nd,Bachelor's,August,4,Available,A2,B++
+200,65646,Master's,Kinesiology,2nd,Bachelor's,August,4,Available,A1,A
+201,65771,Master's,Rehabilitation Science,2nd,Bachelor's,August,4,Available,A1,A++
+202,69237,Master's,Library Science,2nd,Bachelor's,August,4,Available,A2,B++
+203,67569,Master's,Information Science,2nd,Bachelor's,August,4,Available,B2,A++
+204,66487,Master's,Archival Science,2nd,Bachelor's,August,4,Available,C,C
+205,66712,Master's,Data Science,2nd,Bachelor's,August,4,Available,A2,B++
+206,65935,Master's,Machine Learning,2nd,Bachelor's,August,4,Available,A2,A+
+207,67041,Master's,Artificial Intelligence,2nd,Bachelor's,August,4,Available,B2,B
+208,66388,Master's,Cybersecurity,2nd,Bachelor's,August,4,Available,B2,B
+209,65033,Master's,Network Security,2nd,Bachelor's,August,4,Available,A2,A+
+210,67184,Master's,Forensic Science,2nd,Bachelor's,August,4,Available,B1,B++
+211,66330,Master's,Criminology,2nd,Bachelor's,August,4,Available,A2,B+
+212,67308,Master's,Counterterrorism,2nd,Bachelor's,August,4,Available,A3,B
+213,66830,Master's,International Law,2nd,Bachelor's,August,4,Available,B1,B++
+214,67017,Master's,Human Rights Law,2nd,Bachelor's,August,4,Available,C,B
+215,66169,Master's,Intellectual Property Law,2nd,Bachelor's,August,4,Available,A1,A
+216,65314,Master's,Health Law,2nd,Bachelor's,August,4,Available,B2,B
+217,67681,Master's,Immigration Law,2nd,Bachelor's,August,4,Available,B1,A++
+218,68087,Master's,Family Law,2nd,Bachelor's,August,4,Available,C,B+
+219,65926,Master's,Corporate Law,2nd,Bachelor's,August,4,Available,C,A+
+220,68711,Master's,Real Estate Law,2nd,Bachelor's,August,4,Available,B1,A
+221,65396,Master's,Tax Law,2nd,Bachelor's,August,4,Available,B2,C
+222,69354,Master's,Maritime Law,2nd,Bachelor's,August,4,Available,B1,C
+223,67693,Master's,Space Law,2nd,Bachelor's,August,4,Available,A2,B
+224,67952,PHD,Mathematics,5th,Master's,January/Agust,8,Available,A3,D (Not Accredited)
+225,66520,PHD,Physics,5th,Master's,January/Agust,8,Available,B2,A++
+226,69846,PHD,Agriculture,5th,Master's,January/Agust,8,Available,C,A
+227,69919,PHD,Animal Science,5th,Master's,January/Agust,8,Available,A3,B+
+228,68146,PHD,Food Science,5th,Master's,January/Agust,8,Available,A1,D (Not Accredited)
+229,65534,PHD,Forestry,5th,Master's,January/Agust,8,Available,A3,A+
+230,69912,PHD,Marine Biology,5th,Master's,January/Agust,8,Available,C,B++
+231,68815,PHD,Veterinary Medicine,5th,Master's,January/Agust,8,Available,B2,A
+232,69538,PHD,Chemistry,5th,Master's,January/Agust,8,Available,B2,A++
+233,65372,PHD,Biology,5th,Master's,January/Agust,8,Available,A1,B+
+234,67016,PHD,Computer Science,5th,Master's,January/Agust,8,Available,A2,C
+235,68140,PHD,Engineering,5th,Master's,January/Agust,8,Available,C,A++
+236,66341,PHD,Psychology,5th,Master's,January/Agust,8,Available,A3,D (Not Accredited)
+237,68319,PHD,Sociology,5th,Master's,January/Agust,8,Available,A2,B++
+238,66958,PHD,Economics,5th,Master's,January/Agust,8,Available,A2,A+
+239,66532,PHD,Political Science,5th,Master's,January/Agust,8,Available,A2,A+
+240,65183,PHD,History,5th,Master's,January/Agust,8,Available,B2,B+
+241,65641,PHD,English Literature,5th,Master's,January/Agust,8,Available,A2,B++
+242,68436,PHD,Foreign Languages,5th,Master's,January/Agust,8,Available,C,B+
+243,69162,PHD,Philosophy,5th,Master's,January/Agust,8,Available,A1,A+
+244,67612,PHD,Art History,5th,Master's,January/Agust,8,Available,A2,A+
+245,66556,PHD,Music,5th,Master's,January/Agust,8,Available,B2,B
+246,69048,PHD,Film Studies,5th,Master's,January/Agust,8,Available,C,D (Not Accredited)
+247,68786,PHD,Business Administration,5th,Master's,January/Agust,8,Available,B2,A+
+248,68474,PHD,Marketing,5th,Master's,January/Agust,8,Available,A2,D (Not Accredited)
+249,65537,PHD,Finance,5th,Master's,January/Agust,8,Available,B1,A
+250,67386,PHD,Accounting,5th,Master's,January/Agust,8,Available,B1,B++
+251,65503,PHD,Management,5th,Master's,January/Agust,8,Available,B2,B+
+252,69293,PHD,Human Resources,5th,Master's,January/Agust,8,Available,B1,C
+253,67005,PHD,Entrepreneurship,5th,Master's,January/Agust,8,Available,A1,A
+254,65942,PHD,Environmental Science,5th,Master's,January/Agust,8,Available,C,A++
+255,69826,PHD,Geology,5th,Master's,January/Agust,8,Available,C,A++
+256,68391,PHD,Astronomy,5th,Master's,January/Agust,8,Available,A3,A+
+257,69339,PHD,Anthropology,5th,Master's,January/Agust,8,Available,B2,D (Not Accredited)
+258,65288,PHD,Archaeology,5th,Master's,January/Agust,8,Available,B1,A++
+259,66736,PHD,Education,5th,Master's,January/Agust,8,Available,B1,C
+260,66465,PHD,Health Sciences,5th,Master's,January/Agust,8,Available,B2,A+
+261,67704,PHD,Nursing,5th,Master's,January/Agust,8,Available,A3,B
+262,67992,PHD,Medicine,5th,Master's,January/Agust,8,Available,C,B+
+263,67045,PHD,Dentistry,5th,Master's,January/Agust,8,Available,C,B+
+264,67415,PHD,Pharmacy,5th,Master's,January/Agust,8,Available,C,B+
+265,69720,PHD,Law,5th,Master's,January/Agust,8,Available,B2,C
+266,65982,PHD,Theater,5th,Master's,January/Agust,8,Available,A1,D (Not Accredited)
+267,68850,PHD,Dance,5th,Master's,January/Agust,8,Available,A2,B+
+268,67369,PHD,Physical Education,5th,Master's,January/Agust,8,Available,A1,D (Not Accredited)
+269,66538,PHD,Nutrition,5th,Master's,January/Agust,8,Available,A2,A
+270,69290,PHD,Communication Studies,5th,Master's,January/Agust,8,Available,A1,A
+271,66496,PHD,Media Studies,5th,Master's,January/Agust,8,Available,B2,D (Not Accredited)
+272,67013,PHD,Information Technology,5th,Master's,January/Agust,8,Available,B1,C
+273,66295,PHD,Statistics,5th,Master's,January/Agust,8,Available,A2,D (Not Accredited)
+274,68115,PHD,Geography,5th,Master's,January/Agust,8,Available,A3,A
+275,68898,PHD,Urban Planning,5th,Master's,January/Agust,8,Available,A2,A++
+276,65266,PHD,Public Administration,5th,Master's,January/Agust,8,Available,A2,D (Not Accredited)
+277,68834,PHD,Social Work,5th,Master's,January/Agust,8,Available,B1,B++
+278,69608,PHD,Criminal Justice,5th,Master's,January/Agust,8,Available,B2,A
+279,65627,PHD,Religious Studies,5th,Master's,January/Agust,8,Available,A3,A+
+280,69072,PHD,Womens Studies,5th,Master's,January/Agust,8,Available,B1,B
+281,65394,PHD,Gender Studies,5th,Master's,January/Agust,8,Available,A1,C
+282,65043,PHD,Architecture,5th,Master's,January/Agust,8,Available,A1,A++
+283,66745,PHD,Urban Design,5th,Master's,January/Agust,8,Available,C,A++
+284,67347,PHD,Linguistics,5th,Master's,January/Agust,8,Available,A2,B
+285,67722,PHD,Public Health,5th,Master's,January/Agust,8,Available,B1,D (Not Accredited)
+286,67058,PHD,Industrial Engineering,5th,Master's,January/Agust,8,Available,A2,B
+287,66033,PHD,Mechanical Engineering,5th,Master's,January/Agust,8,Available,B1,C
+288,67802,PHD,Civil Engineering,5th,Master's,January/Agust,8,Available,B2,A+
+289,66721,PHD,Electrical Engineering,5th,Master's,January/Agust,8,Available,A3,C
+290,67352,PHD,Chemical Engineering,5th,Master's,January/Agust,8,Available,A1,A+
+291,65755,PHD,Materials Science and Engineering,5th,Master's,January/Agust,8,Available,B2,A+
+292,66089,PHD,Biomedical Engineering,5th,Master's,January/Agust,8,Available,A3,A++
+293,66186,PHD,Environmental Engineering,5th,Master's,January/Agust,8,Available,A2,B+
+294,68518,PHD,Computer Engineering,5th,Master's,January/Agust,8,Available,A1,D (Not Accredited)
+295,69816,PHD,Robotics,5th,Master's,January/Agust,8,Available,A3,B+
+296,69901,PHD,Biotechnology,5th,Master's,January/Agust,8,Available,A1,C
+297,68901,PHD,Bioinformatics,5th,Master's,January/Agust,8,Available,B1,A
+298,69514,PHD,Neuroscience,5th,Master's,January/Agust,8,Available,A1,A+
+299,66968,PHD,Cognitive Science,5th,Master's,January/Agust,8,Available,C,A+
+300,65628,PHD,Developmental Biology,5th,Master's,January/Agust,8,Available,C,D (Not Accredited)
+301,69484,PHD,Genomics,5th,Master's,January/Agust,8,Available,A2,A+
+302,67824,PHD,Humanities,5th,Master's,January/Agust,8,Available,B2,B
+303,65201,PHD,Fine Arts,5th,Master's,January/Agust,8,Available,A3,B
+304,68857,PHD,Graphic Design,5th,Master's,January/Agust,8,Available,A1,A++
+305,65647,PHD,Interior Design,5th,Master's,January/Agust,8,Available,C,B+
+306,69118,PHD,Fashion Design,5th,Master's,January/Agust,8,Available,A1,B
+307,68127,PHD,Industrial Design,5th,Master's,January/Agust,8,Available,A3,A+
+308,65908,PHD,Digital Media,5th,Master's,January/Agust,8,Available,A3,D (Not Accredited)
+309,68411,PHD,Animation,5th,Master's,January/Agust,8,Available,A3,B
+310,65135,PHD,Game Design,5th,Master's,January/Agust,8,Available,A1,A+
+311,66104,PHD,Sports Science,5th,Master's,January/Agust,8,Available,B1,A
+312,66694,PHD,Kinesiology,5th,Master's,January/Agust,8,Available,C,B+
+313,67990,PHD,Rehabilitation Science,5th,Master's,January/Agust,8,Available,B2,D (Not Accredited)
+314,67647,PHD,Library Science,5th,Master's,January/Agust,8,Available,B1,B+
+315,68275,PHD,Information Science,5th,Master's,January/Agust,8,Available,A1,B+
+316,65853,PHD,Archival Science,5th,Master's,January/Agust,8,Available,A1,B+
+317,66526,PHD,Data Science,5th,Master's,January/Agust,8,Available,A2,C
+318,65437,PHD,Machine Learning,5th,Master's,January/Agust,8,Available,B2,B
+319,66702,PHD,Artificial Intelligence,5th,Master's,January/Agust,8,Available,B2,D (Not Accredited)
+320,69970,PHD,Cybersecurity,5th,Master's,January/Agust,8,Available,A2,B
+321,69829,PHD,Network Security,5th,Master's,January/Agust,8,Available,C,B
+322,67796,PHD,Forensic Science,5th,Master's,January/Agust,8,Available,A1,C
+323,67167,PHD,Criminology,5th,Master's,January/Agust,8,Available,A1,A
+324,68214,PHD,Counterterrorism,5th,Master's,January/Agust,8,Available,A3,B++
+325,68274,PHD,International Law,5th,Master's,January/Agust,8,Available,B2,A
+326,66184,PHD,Human Rights Law,5th,Master's,January/Agust,8,Available,B1,C
+327,65230,PHD,Intellectual Property Law,5th,Master's,January/Agust,8,Available,A3,D (Not Accredited)
+328,65110,PHD,Health Law,5th,Master's,January/Agust,8,Available,B2,A+
+329,68562,PHD,Immigration Law,5th,Master's,January/Agust,8,Available,A2,C
+330,69313,PHD,Family Law,5th,Master's,January/Agust,8,Available,A1,A++
+331,67247,PHD,Corporate Law,5th,Master's,January/Agust,8,Available,A2,B+
+332,69380,PHD,Real Estate Law,5th,Master's,January/Agust,8,Available,C,A++
+333,66913,PHD,Tax Law,5th,Master's,January/Agust,8,Available,B2,A+
+334,65307,PHD,Maritime Law,5th,Master's,January/Agust,8,Available,A2,A+
+335,69828,PHD,Space Law,5th,Master's,January/Agust,8,Available,A3,C
+336,65930,P.Doc,Mathematics,3nd,PHD,July,6,Available,A2,A
+337,67074,P.Doc,Physics,3nd,PHD,July,6,Available,C,D (Not Accredited)
+338,65726,P.Doc,Agriculture,3nd,PHD,July,6,Available,C,C
+339,67999,P.Doc,Animal Science,3nd,PHD,July,6,Available,B1,A+
+340,66597,P.Doc,Food Science,3nd,PHD,July,6,Available,A2,B
+341,68712,P.Doc,Forestry,3nd,PHD,July,6,Available,B1,C
+342,68985,P.Doc,Marine Biology,3nd,PHD,July,6,Available,B2,D (Not Accredited)
+343,65104,P.Doc,Veterinary Medicine,3nd,PHD,July,6,Available,B2,A
+344,69640,P.Doc,Chemistry,3nd,PHD,July,6,Available,B2,D (Not Accredited)
+345,68018,P.Doc,Biology,3nd,PHD,July,6,Available,A3,B+
+346,65913,P.Doc,Computer Science,3nd,PHD,July,6,Available,A2,D (Not Accredited)
+347,65606,P.Doc,Engineering,3nd,PHD,July,6,Available,A1,B++
+348,65684,P.Doc,Psychology,3nd,PHD,July,6,Available,A2,A+
+349,66417,P.Doc,Sociology,3nd,PHD,July,6,Available,A3,B
+350,68459,P.Doc,Economics,3nd,PHD,July,6,Available,B2,A++
+351,68623,P.Doc,Political Science,3nd,PHD,July,6,Available,A3,C
+352,66578,P.Doc,History,3nd,PHD,July,6,Available,B2,A++
+353,66893,P.Doc,English Literature,3nd,PHD,July,6,Available,A1,C
+354,65888,P.Doc,Foreign Languages,3nd,PHD,July,6,Available,A3,B
+355,69605,P.Doc,Philosophy,3nd,PHD,July,6,Available,A1,A+
+356,68684,P.Doc,Art History,3nd,PHD,July,6,Available,A1,B
+357,67621,P.Doc,Music,3nd,PHD,July,6,Available,A3,C
+358,67088,P.Doc,Film Studies,3nd,PHD,July,6,Available,C,A++
+359,66409,P.Doc,Business Administration,3nd,PHD,July,6,Available,A2,A
+360,68091,P.Doc,Marketing,3nd,PHD,July,6,Available,C,D (Not Accredited)
+361,68999,P.Doc,Finance,3nd,PHD,July,6,Available,A1,A
+362,65845,P.Doc,Accounting,3nd,PHD,July,6,Available,A2,A++
+363,65389,P.Doc,Management,3nd,PHD,July,6,Available,B1,B+
+364,68057,P.Doc,Human Resources,3nd,PHD,July,6,Available,B1,C
+365,69499,P.Doc,Entrepreneurship,3nd,PHD,July,6,Available,A2,B+
+366,68548,P.Doc,Environmental Science,3nd,PHD,July,6,Available,A3,D (Not Accredited)
+367,67164,P.Doc,Geology,3nd,PHD,July,6,Available,B2,D (Not Accredited)
+368,68016,P.Doc,Astronomy,3nd,PHD,July,6,Available,A2,C
+369,69137,P.Doc,Anthropology,3nd,PHD,July,6,Available,B2,A
+370,67940,P.Doc,Archaeology,3nd,PHD,July,6,Available,A1,B+
+371,67314,P.Doc,Education,3nd,PHD,July,6,Available,A3,B++
+372,65860,P.Doc,Health Sciences,3nd,PHD,July,6,Available,A3,A
+373,69178,P.Doc,Nursing,3nd,PHD,July,6,Available,B2,C
+374,66472,P.Doc,Medicine,3nd,PHD,July,6,Available,B2,B++
+375,69385,P.Doc,Dentistry,3nd,PHD,July,6,Available,B1,A++
+376,66356,P.Doc,Pharmacy,3nd,PHD,July,6,Available,A3,A++
+377,69694,P.Doc,Law,3nd,PHD,July,6,Available,A2,C
+378,69612,P.Doc,Theater,3nd,PHD,July,6,Available,B2,C
+379,68084,P.Doc,Dance,3nd,PHD,July,6,Available,B2,B+
+380,65740,P.Doc,Physical Education,3nd,PHD,July,6,Available,C,A+
+381,66917,P.Doc,Nutrition,3nd,PHD,July,6,Available,A3,A
+382,66523,P.Doc,Communication Studies,3nd,PHD,July,6,Available,A2,B++
+383,68076,P.Doc,Media Studies,3nd,PHD,July,6,Available,B1,A+
+384,67678,P.Doc,Information Technology,3nd,PHD,July,6,Available,A2,B++
+385,67206,P.Doc,Statistics,3nd,PHD,July,6,Available,B2,B
+386,68085,P.Doc,Geography,3nd,PHD,July,6,Available,B2,A
+387,65313,P.Doc,Urban Planning,3nd,PHD,July,6,Available,A2,A+
+388,68285,P.Doc,Public Administration,3nd,PHD,July,6,Available,B2,A
+389,67807,P.Doc,Social Work,3nd,PHD,July,6,Available,A3,A
+390,67719,P.Doc,Criminal Justice,3nd,PHD,July,6,Available,A3,A
+391,66389,P.Doc,Religious Studies,3nd,PHD,July,6,Available,C,A++
+392,68386,P.Doc,Womens Studies,3nd,PHD,July,6,Available,B2,C
+393,67618,P.Doc,Gender Studies,3nd,PHD,July,6,Available,B1,B
+394,69839,P.Doc,Architecture,3nd,PHD,July,6,Available,A1,B+
+395,65634,P.Doc,Urban Design,3nd,PHD,July,6,Available,A2,A
+396,66738,P.Doc,Linguistics,3nd,PHD,July,6,Available,C,A++
+397,66083,P.Doc,Public Health,3nd,PHD,July,6,Available,C,C
+398,68727,P.Doc,Industrial Engineering,3nd,PHD,July,6,Available,B1,C
+399,68865,P.Doc,Mechanical Engineering,3nd,PHD,July,6,Available,C,D (Not Accredited)
+400,66157,P.Doc,Civil Engineering,3nd,PHD,July,6,Available,B1,A++
+401,67198,P.Doc,Electrical Engineering,3nd,PHD,July,6,Available,B1,A++
+402,67433,P.Doc,Chemical Engineering,3nd,PHD,July,6,Available,B1,B
+403,65530,P.Doc,Materials Science and Engineering,3nd,PHD,July,6,Available,B1,B
+404,69249,P.Doc,Biomedical Engineering,3nd,PHD,July,6,Available,B2,D (Not Accredited)
+405,67120,P.Doc,Environmental Engineering,3nd,PHD,July,6,Available,A1,D (Not Accredited)
+406,67836,P.Doc,Computer Engineering,3nd,PHD,July,6,Available,C,D (Not Accredited)
+407,66865,P.Doc,Robotics,3nd,PHD,July,6,Available,C,D (Not Accredited)
+408,69847,P.Doc,Biotechnology,3nd,PHD,July,6,Available,C,A+
+409,65298,P.Doc,Bioinformatics,3nd,PHD,July,6,Available,B2,A+
+410,68749,P.Doc,Neuroscience,3nd,PHD,July,6,Available,A2,A+
+411,69057,P.Doc,Cognitive Science,3nd,PHD,July,6,Available,B2,A
+412,67419,P.Doc,Developmental Biology,3nd,PHD,July,6,Available,A3,C
+413,65041,P.Doc,Genomics,3nd,PHD,July,6,Available,A2,B
+414,66308,P.Doc,Humanities,3nd,PHD,July,6,Available,B1,B
+415,66528,P.Doc,Fine Arts,3nd,PHD,July,6,Available,C,B
+416,69001,P.Doc,Graphic Design,3nd,PHD,July,6,Available,C,D (Not Accredited)
+417,68413,P.Doc,Interior Design,3nd,PHD,July,6,Available,B2,C
+418,65130,P.Doc,Fashion Design,3nd,PHD,July,6,Available,B2,B+
+419,67366,P.Doc,Industrial Design,3nd,PHD,July,6,Available,B1,A+
+420,66140,P.Doc,Digital Media,3nd,PHD,July,6,Available,C,B++
+421,68908,P.Doc,Animation,3nd,PHD,July,6,Available,A1,B+
+422,68648,P.Doc,Game Design,3nd,PHD,July,6,Available,A2,B+
+423,68037,P.Doc,Sports Science,3nd,PHD,July,6,Available,B1,A
+424,67789,P.Doc,Kinesiology,3nd,PHD,July,6,Available,C,A++
+425,67924,P.Doc,Rehabilitation Science,3nd,PHD,July,6,Available,A3,B
+426,67988,P.Doc,Library Science,3nd,PHD,July,6,Available,A1,C
+427,65212,P.Doc,Information Science,3nd,PHD,July,6,Available,B1,A
+428,65334,P.Doc,Archival Science,3nd,PHD,July,6,Available,B2,A
+429,69786,P.Doc,Data Science,3nd,PHD,July,6,Available,A3,A++
+430,69094,P.Doc,Machine Learning,3nd,PHD,July,6,Available,A3,C
+431,65317,P.Doc,Artificial Intelligence,3nd,PHD,July,6,Available,A3,C
+432,66547,P.Doc,Cybersecurity,3nd,PHD,July,6,Available,C,A++
+433,65029,P.Doc,Network Security,3nd,PHD,July,6,Available,A1,C
+434,67248,P.Doc,Forensic Science,3nd,PHD,July,6,Available,B2,B+
+435,67638,P.Doc,Criminology,3nd,PHD,July,6,Available,A2,A+
+436,67535,P.Doc,Counterterrorism,3nd,PHD,July,6,Available,A2,B+
+437,67288,P.Doc,International Law,3nd,PHD,July,6,Available,A3,D (Not Accredited)
+438,65538,P.Doc,Human Rights Law,3nd,PHD,July,6,Available,A1,C
+439,69099,P.Doc,Intellectual Property Law,3nd,PHD,July,6,Available,A1,B++
+440,68505,P.Doc,Health Law,3nd,PHD,July,6,Available,B2,A++
+441,66782,P.Doc,Immigration Law,3nd,PHD,July,6,Available,A3,B++
+442,69374,P.Doc,Family Law,3nd,PHD,July,6,Available,B1,A++
+443,66036,P.Doc,Corporate Law,3nd,PHD,July,6,Available,B1,D (Not Accredited)
+444,68576,P.Doc,Real Estate Law,3nd,PHD,July,6,Available,B2,D (Not Accredited)
+445,66183,P.Doc,Tax Law,3nd,PHD,July,6,Available,B1,B+
+446,66555,P.Doc,Maritime Law,3nd,PHD,July,6,Available,A1,A+
+447,65828,P.Doc,Space Law,3nd,PHD,July,6,Available,B2,A+
+448,65859,Diploma,Mathematics,2nd,Intermediate,July,4,Available,A2,A+
+449,69276,Diploma,Physics,2nd,Intermediate,July,4,Available,B2,D (Not Accredited)
+450,65091,Diploma,Agriculture,2nd,Intermediate,July,4,Available,B1,C
+451,66242,Diploma,Animal Science,2nd,Intermediate,July,4,Available,C,A+
+452,65303,Diploma,Food Science,2nd,Intermediate,July,4,Available,A1,D (Not Accredited)
+453,66439,Diploma,Forestry,2nd,Intermediate,July,4,Available,A1,A++
+454,67098,Diploma,Marine Biology,2nd,Intermediate,July,4,Available,B2,B
+455,66967,Diploma,Veterinary Medicine,2nd,Intermediate,July,4,Available,A3,B+
+456,66006,Diploma,Chemistry,2nd,Intermediate,July,4,Available,A3,D (Not Accredited)
+457,66406,Diploma,Biology,2nd,Intermediate,July,4,Available,B2,B+
+458,66094,Diploma,Computer Science,2nd,Intermediate,July,4,Available,A3,C
+459,65162,Diploma,Engineering,2nd,Intermediate,July,4,Available,B2,A+
+460,69324,Diploma,Psychology,2nd,Intermediate,July,4,Available,A1,D (Not Accredited)
+461,68916,Diploma,Sociology,2nd,Intermediate,July,4,Available,A1,A+
+462,66302,Diploma,Economics,2nd,Intermediate,July,4,Available,C,D (Not Accredited)
+463,67641,Diploma,Political Science,2nd,Intermediate,July,4,Available,A1,B++
+464,69083,Diploma,History,2nd,Intermediate,July,4,Available,B2,A
+465,66689,Diploma,English Literature,2nd,Intermediate,July,4,Available,A1,A+
+466,67805,Diploma,Foreign Languages,2nd,Intermediate,July,4,Available,C,A
+467,69357,Diploma,Philosophy,2nd,Intermediate,July,4,Available,B2,D (Not Accredited)
+468,67360,Diploma,Art History,2nd,Intermediate,July,4,Available,A3,D (Not Accredited)
+469,68876,Diploma,Music,2nd,Intermediate,July,4,Available,B2,A
+470,65854,Diploma,Film Studies,2nd,Intermediate,July,4,Available,C,B
+471,66274,Diploma,Business Administration,2nd,Intermediate,July,4,Available,C,B+
+472,67859,Diploma,Marketing,2nd,Intermediate,July,4,Available,B1,A
+473,67506,Diploma,Finance,2nd,Intermediate,July,4,Available,B2,C
+474,65946,Diploma,Accounting,2nd,Intermediate,July,4,Available,A1,A
+475,66959,Diploma,Management,2nd,Intermediate,July,4,Available,B1,B+
+476,65698,Diploma,Human Resources,2nd,Intermediate,July,4,Available,A1,A+
+477,68475,Diploma,Entrepreneurship,2nd,Intermediate,July,4,Available,C,A
+478,69247,Diploma,Environmental Science,2nd,Intermediate,July,4,Available,A1,B+
+479,67320,Diploma,Geology,2nd,Intermediate,July,4,Available,A2,B++
+480,66680,Diploma,Astronomy,2nd,Intermediate,July,4,Available,C,C
+481,66719,Diploma,Anthropology,2nd,Intermediate,July,4,Available,A2,D (Not Accredited)
+482,67007,Diploma,Archaeology,2nd,Intermediate,July,4,Available,B2,C
+483,65851,Diploma,Education,2nd,Intermediate,July,4,Available,A1,C
+484,69005,Diploma,Health Sciences,2nd,Intermediate,July,4,Available,C,C
+485,69791,Diploma,Nursing,2nd,Intermediate,July,4,Available,A2,A
+486,66271,Diploma,Medicine,2nd,Intermediate,July,4,Available,B2,A++
+487,66015,Diploma,Dentistry,2nd,Intermediate,July,4,Available,A3,B
+488,69236,Diploma,Pharmacy,2nd,Intermediate,July,4,Available,B1,A
+489,68884,Diploma,Law,2nd,Intermediate,July,4,Available,C,D (Not Accredited)
+490,69680,Diploma,Theater,2nd,Intermediate,July,4,Available,C,B+
+491,65855,Diploma,Dance,2nd,Intermediate,July,4,Available,C,B++
+492,67473,Diploma,Physical Education,2nd,Intermediate,July,4,Available,A2,B+
+493,66945,Diploma,Nutrition,2nd,Intermediate,July,4,Available,B1,A
+494,65766,Diploma,Communication Studies,2nd,Intermediate,July,4,Available,A2,C
+495,66709,Diploma,Media Studies,2nd,Intermediate,July,4,Available,A1,A++
+496,65831,Diploma,Information Technology,2nd,Intermediate,July,4,Available,B1,B
+497,65706,Diploma,Statistics,2nd,Intermediate,July,4,Available,C,C
+498,66165,Diploma,Geography,2nd,Intermediate,July,4,Available,B1,A++
+499,68367,Diploma,Urban Planning,2nd,Intermediate,July,4,Available,A2,A++
+500,69936,Diploma,Public Administration,2nd,Intermediate,July,4,Available,A1,A++
+501,66016,Diploma,Social Work,2nd,Intermediate,July,4,Available,A3,B+
+502,67923,Diploma,Criminal Justice,2nd,Intermediate,July,4,Available,A2,A
+503,68903,Diploma,Religious Studies,2nd,Intermediate,July,4,Available,A2,B++
+504,67062,Diploma,Womens Studies,2nd,Intermediate,July,4,Available,B2,A+
+505,68976,Diploma,Gender Studies,2nd,Intermediate,July,4,Available,A2,A+
+506,68844,Diploma,Architecture,2nd,Intermediate,July,4,Available,A3,B+
+507,65477,Diploma,Urban Design,2nd,Intermediate,July,4,Available,C,A+
+508,67117,Diploma,Linguistics,2nd,Intermediate,July,4,Available,A1,A
+509,66647,Diploma,Public Health,2nd,Intermediate,July,4,Available,B1,B+
+510,68485,Diploma,Industrial Engineering,2nd,Intermediate,July,4,Available,A3,C
+511,68780,Diploma,Mechanical Engineering,2nd,Intermediate,July,4,Available,B1,A
+512,69200,Diploma,Civil Engineering,2nd,Intermediate,July,4,Available,A2,B++
+513,65274,Diploma,Electrical Engineering,2nd,Intermediate,July,4,Available,B1,A
+514,69560,Diploma,Chemical Engineering,2nd,Intermediate,July,4,Available,A1,A+
+515,67349,Diploma,Materials Science and Engineering,2nd,Intermediate,July,4,Available,B2,A
+516,67656,Diploma,Biomedical Engineering,2nd,Intermediate,July,4,Available,A1,B+
+517,67775,Diploma,Environmental Engineering,2nd,Intermediate,July,4,Available,A3,A++
+518,65802,Diploma,Computer Engineering,2nd,Intermediate,July,4,Available,B2,A++
+519,65655,Diploma,Robotics,2nd,Intermediate,July,4,Available,C,A
+520,66278,Diploma,Biotechnology,2nd,Intermediate,July,4,Available,C,A+
+521,65217,Diploma,Bioinformatics,2nd,Intermediate,July,4,Available,B1,D (Not Accredited)
+522,67791,Diploma,Neuroscience,2nd,Intermediate,July,4,Available,A2,A+
+523,65287,Diploma,Cognitive Science,2nd,Intermediate,July,4,Available,A2,B++
+524,69649,Diploma,Developmental Biology,2nd,Intermediate,July,4,Available,B1,A
+525,68741,Diploma,Genomics,2nd,Intermediate,July,4,Available,B2,B++
+526,66621,Diploma,Humanities,2nd,Intermediate,July,4,Available,A2,B
+527,69905,Diploma,Fine Arts,2nd,Intermediate,July,4,Available,A1,D (Not Accredited)
+528,67334,Diploma,Graphic Design,2nd,Intermediate,July,4,Available,A1,C
+529,69878,Diploma,Interior Design,2nd,Intermediate,July,4,Available,B2,B
+530,66438,Diploma,Fashion Design,2nd,Intermediate,July,4,Available,B1,D (Not Accredited)
+531,65199,Diploma,Industrial Design,2nd,Intermediate,July,4,Available,B1,C
+532,65003,Diploma,Digital Media,2nd,Intermediate,July,4,Available,A2,A
+533,68303,Diploma,Animation,2nd,Intermediate,July,4,Available,A2,A
+534,69127,Diploma,Game Design,2nd,Intermediate,July,4,Available,C,D (Not Accredited)
+535,68638,Diploma,Sports Science,2nd,Intermediate,July,4,Available,B1,B++
+536,65738,Diploma,Kinesiology,2nd,Intermediate,July,4,Available,A1,B
+537,65709,Diploma,Rehabilitation Science,2nd,Intermediate,July,4,Available,B1,B
+538,67865,Diploma,Library Science,2nd,Intermediate,July,4,Available,A2,B++
+539,68198,Diploma,Information Science,2nd,Intermediate,July,4,Available,A2,A+
+540,68561,Diploma,Archival Science,2nd,Intermediate,July,4,Available,C,B
+541,68090,Diploma,Data Science,2nd,Intermediate,July,4,Available,A3,A++
+542,66373,Diploma,Machine Learning,2nd,Intermediate,July,4,Available,C,A
+543,67027,Diploma,Artificial Intelligence,2nd,Intermediate,July,4,Available,A2,A
+544,65977,Diploma,Cybersecurity,2nd,Intermediate,July,4,Available,B1,B
+545,67467,Diploma,Network Security,2nd,Intermediate,July,4,Available,A1,A
+546,68355,Diploma,Forensic Science,2nd,Intermediate,July,4,Available,B1,C
+547,66804,Diploma,Criminology,2nd,Intermediate,July,4,Available,A3,A++
+548,68019,Diploma,Counterterrorism,2nd,Intermediate,July,4,Available,B2,A+
+549,69479,Diploma,International Law,2nd,Intermediate,July,4,Available,B2,C
+550,65380,Diploma,Human Rights Law,2nd,Intermediate,July,4,Available,B1,B+
+551,65010,Diploma,Intellectual Property Law,2nd,Intermediate,July,4,Available,C,A
+552,69006,Diploma,Health Law,2nd,Intermediate,July,4,Available,B2,B
+553,67925,Diploma,Immigration Law,2nd,Intermediate,July,4,Available,B1,D (Not Accredited)
+554,67254,Diploma,Family Law,2nd,Intermediate,July,4,Available,B1,B
+555,66962,Diploma,Corporate Law,2nd,Intermediate,July,4,Available,B1,D (Not Accredited)
+556,68724,Diploma,Real Estate Law,2nd,Intermediate,July,4,Available,A3,D (Not Accredited)
+557,67837,Diploma,Tax Law,2nd,Intermediate,July,4,Available,B1,D (Not Accredited)
+558,66688,Diploma,Maritime Law,2nd,Intermediate,July,4,Available,A3,D (Not Accredited)
+559,65808,Diploma,Space Law,2nd,Intermediate,July,4,Available,A2,A

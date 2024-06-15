@@ -1,0 +1,566 @@
+,id_,amount,fee_payable_for,amount_to,last_revieced_fee
+0,33413,535,Mathematics Bachelor's,Adminstration Account,2020-09-13
+1,34565,315,Physics Bachelor's,Adminstration Account,2021-12-18
+2,38195,177,Agriculture Bachelor's,Adminstration Account,2016-07-14
+3,34471,168,Animal Science Bachelor's,Adminstration Account,2020-11-23
+4,41412,289,Food Science Bachelor's,Adminstration Account,2013-06-21
+5,33859,282,Forestry Bachelor's,Adminstration Account,2016-05-28
+6,42562,399,Marine Biology Bachelor's,Adminstration Account,2020-07-07
+7,39131,421,Veterinary Medicine Bachelor's,Adminstration Account,2016-05-28
+8,40162,426,Chemistry Bachelor's,Adminstration Account,2019-12-01
+9,37510,463,Biology Bachelor's,Adminstration Account,2016-10-22
+10,32935,524,Computer Science Bachelor's,Adminstration Account,2022-02-21
+11,36135,121,Engineering Bachelor's,Adminstration Account,2013-10-26
+12,38964,348,Psychology Bachelor's,Adminstration Account,2019-09-10
+13,40714,479,Sociology Bachelor's,Adminstration Account,2019-10-24
+14,37254,476,Economics Bachelor's,Adminstration Account,2012-06-17
+15,39038,425,Political Science Bachelor's,Adminstration Account,2020-08-29
+16,36318,256,History Bachelor's,Adminstration Account,2016-02-03
+17,38711,138,English Literature Bachelor's,Adminstration Account,2019-03-13
+18,38975,363,Foreign Languages Bachelor's,Adminstration Account,2024-06-04
+19,36141,121,Philosophy Bachelor's,Adminstration Account,2018-04-02
+20,35757,246,Art History Bachelor's,Adminstration Account,2020-09-07
+21,40476,108,Music Bachelor's,Adminstration Account,2022-09-03
+22,33080,183,Film Studies Bachelor's,Adminstration Account,2015-01-31
+23,36124,265,Business Administration Bachelor's,Adminstration Account,2022-08-13
+24,33620,195,Marketing Bachelor's,Adminstration Account,2013-03-12
+25,39544,119,Finance Bachelor's,Adminstration Account,2012-11-29
+26,40561,251,Accounting Bachelor's,Adminstration Account,2022-08-08
+27,34351,410,Management Bachelor's,Adminstration Account,2021-08-18
+28,38821,188,Human Resources Bachelor's,Adminstration Account,2014-04-17
+29,40947,480,Entrepreneurship Bachelor's,Adminstration Account,2020-06-03
+30,42288,242,Environmental Science Bachelor's,Adminstration Account,2014-09-28
+31,39004,506,Geology Bachelor's,Adminstration Account,2020-08-27
+32,34745,457,Astronomy Bachelor's,Adminstration Account,2019-02-21
+33,34249,339,Anthropology Bachelor's,Adminstration Account,2019-04-01
+34,35501,306,Archaeology Bachelor's,Adminstration Account,2018-10-24
+35,34962,213,Education Bachelor's,Adminstration Account,2017-07-28
+36,35175,338,Health Sciences Bachelor's,Adminstration Account,2013-01-30
+37,40824,150,Nursing Bachelor's,Adminstration Account,2022-04-01
+38,37402,280,Medicine Bachelor's,Adminstration Account,2014-02-25
+39,39827,164,Dentistry Bachelor's,Adminstration Account,2019-03-14
+40,42484,468,Pharmacy Bachelor's,Adminstration Account,2019-08-19
+41,34302,265,Law Bachelor's,Adminstration Account,2018-02-21
+42,36933,218,Theater Bachelor's,Adminstration Account,2014-06-20
+43,41876,439,Dance Bachelor's,Adminstration Account,2014-12-24
+44,35089,120,Physical Education Bachelor's,Adminstration Account,2014-07-17
+45,38577,119,Nutrition Bachelor's,Adminstration Account,2017-10-11
+46,39114,173,Communication Studies Bachelor's,Adminstration Account,2023-12-23
+47,39155,225,Media Studies Bachelor's,Adminstration Account,2022-09-11
+48,42107,306,Information Technology Bachelor's,Adminstration Account,2018-02-17
+49,34307,325,Statistics Bachelor's,Adminstration Account,2018-04-13
+50,38347,218,Geography Bachelor's,Adminstration Account,2017-11-03
+51,36969,351,Urban Planning Bachelor's,Adminstration Account,2016-08-23
+52,35983,216,Public Administration Bachelor's,Adminstration Account,2016-09-16
+53,40800,330,Social Work Bachelor's,Adminstration Account,2014-12-04
+54,40658,541,Criminal Justice Bachelor's,Adminstration Account,2018-11-10
+55,37667,475,Religious Studies Bachelor's,Adminstration Account,2021-07-03
+56,38009,226,Womens Studies Bachelor's,Adminstration Account,2021-01-27
+57,33736,301,Gender Studies Bachelor's,Adminstration Account,2021-08-02
+58,40715,417,Architecture Bachelor's,Adminstration Account,2022-03-28
+59,41441,251,Urban Design Bachelor's,Adminstration Account,2023-02-18
+60,38123,385,Linguistics Bachelor's,Adminstration Account,2019-01-23
+61,37603,462,Public Health Bachelor's,Adminstration Account,2018-01-02
+62,37547,469,Industrial Engineering Bachelor's,Adminstration Account,2015-02-12
+63,41670,319,Mechanical Engineering Bachelor's,Adminstration Account,2014-05-28
+64,40774,229,Civil Engineering Bachelor's,Adminstration Account,2021-12-10
+65,35617,497,Electrical Engineering Bachelor's,Adminstration Account,2015-04-16
+66,39690,417,Chemical Engineering Bachelor's,Adminstration Account,2021-02-06
+67,36057,338,Materials Science and Engineering Bachelor's,Adminstration Account,2019-03-23
+68,39367,427,Biomedical Engineering Bachelor's,Adminstration Account,2015-09-02
+69,32780,462,Environmental Engineering Bachelor's,Adminstration Account,2021-06-15
+70,40081,533,Computer Engineering Bachelor's,Adminstration Account,2018-07-21
+71,41922,342,Robotics Bachelor's,Adminstration Account,2012-07-28
+72,36625,176,Biotechnology Bachelor's,Adminstration Account,2018-10-22
+73,38182,476,Bioinformatics Bachelor's,Adminstration Account,2021-01-25
+74,37829,544,Neuroscience Bachelor's,Adminstration Account,2022-11-29
+75,33904,132,Cognitive Science Bachelor's,Adminstration Account,2013-05-13
+76,40557,354,Developmental Biology Bachelor's,Adminstration Account,2013-02-13
+77,36213,148,Genomics Bachelor's,Adminstration Account,2015-08-18
+78,34217,450,Humanities Bachelor's,Adminstration Account,2019-04-08
+79,34780,254,Fine Arts Bachelor's,Adminstration Account,2013-06-04
+80,40498,437,Graphic Design Bachelor's,Adminstration Account,2019-06-07
+81,39660,443,Interior Design Bachelor's,Adminstration Account,2014-06-06
+82,37809,357,Fashion Design Bachelor's,Adminstration Account,2020-09-08
+83,35126,356,Industrial Design Bachelor's,Adminstration Account,2019-05-23
+84,34787,203,Digital Media Bachelor's,Adminstration Account,2015-05-31
+85,41305,470,Animation Bachelor's,Adminstration Account,2014-03-04
+86,42966,299,Game Design Bachelor's,Adminstration Account,2016-02-11
+87,35387,496,Sports Science Bachelor's,Adminstration Account,2019-01-18
+88,35470,500,Kinesiology Bachelor's,Adminstration Account,2019-11-19
+89,42923,376,Rehabilitation Science Bachelor's,Adminstration Account,2020-02-29
+90,36094,215,Library Science Bachelor's,Adminstration Account,2016-10-23
+91,35835,277,Information Science Bachelor's,Adminstration Account,2015-10-24
+92,40392,452,Archival Science Bachelor's,Adminstration Account,2015-12-26
+93,40394,407,Data Science Bachelor's,Adminstration Account,2022-05-31
+94,42830,499,Machine Learning Bachelor's,Adminstration Account,2016-11-15
+95,38141,353,Artificial Intelligence Bachelor's,Adminstration Account,2020-04-01
+96,41347,390,Cybersecurity Bachelor's,Adminstration Account,2018-08-11
+97,33299,361,Network Security Bachelor's,Adminstration Account,2022-01-31
+98,38409,129,Forensic Science Bachelor's,Adminstration Account,2016-05-09
+99,36205,540,Criminology Bachelor's,Adminstration Account,2012-09-11
+100,41895,160,Counterterrorism Bachelor's,Adminstration Account,2016-07-10
+101,39706,516,International Law Bachelor's,Adminstration Account,2015-08-26
+102,36987,405,Human Rights Law Bachelor's,Adminstration Account,2012-08-01
+103,35395,185,Intellectual Property Law Bachelor's,Adminstration Account,2015-02-06
+104,42471,173,Health Law Bachelor's,Adminstration Account,2017-12-17
+105,37995,374,Immigration Law Bachelor's,Adminstration Account,2012-09-20
+106,39902,494,Family Law Bachelor's,Adminstration Account,2020-07-08
+107,38269,349,Corporate Law Bachelor's,Adminstration Account,2012-07-20
+108,38859,351,Real Estate Law Bachelor's,Adminstration Account,2015-08-12
+109,37919,482,Tax Law Bachelor's,Adminstration Account,2019-01-25
+110,34236,549,Maritime Law Bachelor's,Adminstration Account,2017-09-24
+111,40998,475,Space Law Bachelor's,Adminstration Account,2016-08-01
+112,39662,358,Mathematics Master's,Adminstration Account,2013-09-29
+113,41488,216,Physics Master's,Adminstration Account,2018-09-14
+114,42312,428,Agriculture Master's,Adminstration Account,2020-06-22
+115,42878,407,Animal Science Master's,Adminstration Account,2021-08-19
+116,40210,383,Food Science Master's,Adminstration Account,2023-08-16
+117,37179,179,Forestry Master's,Adminstration Account,2017-04-14
+118,34722,357,Marine Biology Master's,Adminstration Account,2023-11-04
+119,35620,298,Veterinary Medicine Master's,Adminstration Account,2021-11-17
+120,33130,393,Chemistry Master's,Adminstration Account,2013-10-18
+121,32504,298,Biology Master's,Adminstration Account,2015-08-14
+122,34222,407,Computer Science Master's,Adminstration Account,2023-04-29
+123,40120,377,Engineering Master's,Adminstration Account,2023-03-07
+124,41059,149,Psychology Master's,Adminstration Account,2022-02-05
+125,37768,536,Sociology Master's,Adminstration Account,2014-02-28
+126,40076,142,Economics Master's,Adminstration Account,2018-01-21
+127,41959,135,Political Science Master's,Adminstration Account,2023-03-22
+128,38949,260,History Master's,Adminstration Account,2016-08-30
+129,38529,168,English Literature Master's,Adminstration Account,2018-05-31
+130,37449,290,Foreign Languages Master's,Adminstration Account,2022-08-23
+131,38455,107,Philosophy Master's,Adminstration Account,2017-06-14
+132,42702,204,Art History Master's,Adminstration Account,2020-02-16
+133,42489,402,Music Master's,Adminstration Account,2023-09-11
+134,39622,360,Film Studies Master's,Adminstration Account,2012-08-17
+135,41187,441,Business Administration Master's,Adminstration Account,2016-12-08
+136,35595,525,Marketing Master's,Adminstration Account,2013-08-17
+137,38728,245,Finance Master's,Adminstration Account,2020-11-18
+138,41032,295,Accounting Master's,Adminstration Account,2018-12-09
+139,36421,383,Management Master's,Adminstration Account,2019-11-12
+140,35914,371,Human Resources Master's,Adminstration Account,2015-05-04
+141,41116,176,Entrepreneurship Master's,Adminstration Account,2023-06-30
+142,38919,459,Environmental Science Master's,Adminstration Account,2018-12-15
+143,40294,504,Geology Master's,Adminstration Account,2019-12-20
+144,34851,190,Astronomy Master's,Adminstration Account,2016-06-28
+145,37880,468,Anthropology Master's,Adminstration Account,2015-06-08
+146,33027,396,Archaeology Master's,Adminstration Account,2022-08-09
+147,40539,540,Education Master's,Adminstration Account,2017-03-27
+148,39283,353,Health Sciences Master's,Adminstration Account,2016-07-02
+149,41048,252,Nursing Master's,Adminstration Account,2019-03-05
+150,33815,487,Medicine Master's,Adminstration Account,2015-05-17
+151,41336,470,Dentistry Master's,Adminstration Account,2018-03-27
+152,41623,483,Pharmacy Master's,Adminstration Account,2023-02-19
+153,42577,519,Law Master's,Adminstration Account,2019-05-24
+154,40130,177,Theater Master's,Adminstration Account,2022-04-11
+155,34669,212,Dance Master's,Adminstration Account,2017-08-23
+156,41870,308,Physical Education Master's,Adminstration Account,2016-04-22
+157,39594,498,Nutrition Master's,Adminstration Account,2015-03-30
+158,42139,254,Communication Studies Master's,Adminstration Account,2014-12-20
+159,42839,248,Media Studies Master's,Adminstration Account,2021-11-02
+160,40128,276,Information Technology Master's,Adminstration Account,2017-11-15
+161,40147,253,Statistics Master's,Adminstration Account,2021-09-14
+162,33196,258,Geography Master's,Adminstration Account,2015-01-14
+163,38172,466,Urban Planning Master's,Adminstration Account,2022-01-21
+164,35279,141,Public Administration Master's,Adminstration Account,2015-02-15
+165,38946,364,Social Work Master's,Adminstration Account,2013-08-14
+166,40051,221,Criminal Justice Master's,Adminstration Account,2012-10-20
+167,34901,292,Religious Studies Master's,Adminstration Account,2020-01-08
+168,42359,516,Womens Studies Master's,Adminstration Account,2020-04-09
+169,39042,434,Gender Studies Master's,Adminstration Account,2013-05-02
+170,38482,473,Architecture Master's,Adminstration Account,2022-12-14
+171,41331,488,Urban Design Master's,Adminstration Account,2012-06-18
+172,37172,140,Linguistics Master's,Adminstration Account,2021-10-06
+173,40305,347,Public Health Master's,Adminstration Account,2019-08-21
+174,32703,399,Industrial Engineering Master's,Adminstration Account,2022-02-13
+175,33240,281,Mechanical Engineering Master's,Adminstration Account,2018-12-25
+176,35723,460,Civil Engineering Master's,Adminstration Account,2015-11-24
+177,36334,110,Electrical Engineering Master's,Adminstration Account,2016-06-06
+178,39627,263,Chemical Engineering Master's,Adminstration Account,2022-11-05
+179,39311,323,Materials Science and Engineering Master's,Adminstration Account,2020-04-03
+180,40383,408,Biomedical Engineering Master's,Adminstration Account,2018-11-06
+181,41887,140,Environmental Engineering Master's,Adminstration Account,2023-03-06
+182,34380,278,Computer Engineering Master's,Adminstration Account,2020-12-19
+183,41041,319,Robotics Master's,Adminstration Account,2019-06-11
+184,33389,235,Biotechnology Master's,Adminstration Account,2021-07-11
+185,33054,348,Bioinformatics Master's,Adminstration Account,2013-12-07
+186,35467,277,Neuroscience Master's,Adminstration Account,2019-02-13
+187,41011,386,Cognitive Science Master's,Adminstration Account,2013-04-26
+188,40562,113,Developmental Biology Master's,Adminstration Account,2012-08-21
+189,34762,462,Genomics Master's,Adminstration Account,2014-06-08
+190,39811,166,Humanities Master's,Adminstration Account,2018-04-04
+191,41352,367,Fine Arts Master's,Adminstration Account,2014-12-20
+192,42108,113,Graphic Design Master's,Adminstration Account,2014-04-05
+193,42725,136,Interior Design Master's,Adminstration Account,2022-11-10
+194,39658,288,Fashion Design Master's,Adminstration Account,2016-01-30
+195,39992,539,Industrial Design Master's,Adminstration Account,2020-05-01
+196,34478,481,Digital Media Master's,Adminstration Account,2019-10-25
+197,34425,397,Animation Master's,Adminstration Account,2019-02-06
+198,42325,504,Game Design Master's,Adminstration Account,2014-02-06
+199,35532,227,Sports Science Master's,Adminstration Account,2013-07-22
+200,33770,514,Kinesiology Master's,Adminstration Account,2023-05-16
+201,37888,200,Rehabilitation Science Master's,Adminstration Account,2022-07-12
+202,35321,119,Library Science Master's,Adminstration Account,2013-06-18
+203,33097,406,Information Science Master's,Adminstration Account,2017-02-15
+204,42851,368,Archival Science Master's,Adminstration Account,2019-02-27
+205,36346,126,Data Science Master's,Adminstration Account,2023-11-08
+206,33379,422,Machine Learning Master's,Adminstration Account,2016-06-07
+207,36319,111,Artificial Intelligence Master's,Adminstration Account,2012-10-18
+208,35403,158,Cybersecurity Master's,Adminstration Account,2024-04-14
+209,40834,411,Network Security Master's,Adminstration Account,2023-01-29
+210,36442,455,Forensic Science Master's,Adminstration Account,2019-01-12
+211,37467,204,Criminology Master's,Adminstration Account,2023-07-08
+212,35512,421,Counterterrorism Master's,Adminstration Account,2019-03-24
+213,40858,247,International Law Master's,Adminstration Account,2015-12-27
+214,39614,107,Human Rights Law Master's,Adminstration Account,2013-05-06
+215,41560,508,Intellectual Property Law Master's,Adminstration Account,2018-11-08
+216,40157,497,Health Law Master's,Adminstration Account,2021-04-20
+217,32924,303,Immigration Law Master's,Adminstration Account,2016-09-23
+218,42863,162,Family Law Master's,Adminstration Account,2020-12-24
+219,42067,462,Corporate Law Master's,Adminstration Account,2015-05-27
+220,39234,139,Real Estate Law Master's,Adminstration Account,2017-12-20
+221,39150,543,Tax Law Master's,Adminstration Account,2019-02-18
+222,42022,434,Maritime Law Master's,Adminstration Account,2016-01-03
+223,33172,524,Space Law Master's,Adminstration Account,2012-07-23
+224,39996,379,Mathematics PHD,Adminstration Account,2017-05-01
+225,36794,349,Physics PHD,Adminstration Account,2018-05-13
+226,38851,324,Agriculture PHD,Adminstration Account,2012-06-27
+227,34830,366,Animal Science PHD,Adminstration Account,2014-06-17
+228,36671,266,Food Science PHD,Adminstration Account,2013-11-03
+229,37890,243,Forestry PHD,Adminstration Account,2014-01-21
+230,42840,136,Marine Biology PHD,Adminstration Account,2018-04-20
+231,40628,221,Veterinary Medicine PHD,Adminstration Account,2020-01-07
+232,36063,474,Chemistry PHD,Adminstration Account,2021-08-17
+233,40645,423,Biology PHD,Adminstration Account,2023-08-04
+234,36497,302,Computer Science PHD,Adminstration Account,2013-12-16
+235,41976,179,Engineering PHD,Adminstration Account,2014-01-21
+236,33177,152,Psychology PHD,Adminstration Account,2018-07-12
+237,32748,268,Sociology PHD,Adminstration Account,2014-07-17
+238,35697,325,Economics PHD,Adminstration Account,2018-07-04
+239,42061,126,Political Science PHD,Adminstration Account,2018-03-06
+240,32561,251,History PHD,Adminstration Account,2018-05-07
+241,36173,285,English Literature PHD,Adminstration Account,2016-09-22
+242,42920,455,Foreign Languages PHD,Adminstration Account,2014-08-15
+243,42656,448,Philosophy PHD,Adminstration Account,2016-02-03
+244,35259,347,Art History PHD,Adminstration Account,2024-05-11
+245,41234,525,Music PHD,Adminstration Account,2016-05-04
+246,41691,317,Film Studies PHD,Adminstration Account,2023-11-04
+247,40818,381,Business Administration PHD,Adminstration Account,2023-08-26
+248,36985,134,Marketing PHD,Adminstration Account,2022-07-18
+249,42015,397,Finance PHD,Adminstration Account,2020-11-15
+250,42822,119,Accounting PHD,Adminstration Account,2017-12-06
+251,33247,241,Management PHD,Adminstration Account,2022-12-06
+252,33522,467,Human Resources PHD,Adminstration Account,2022-01-17
+253,38645,254,Entrepreneurship PHD,Adminstration Account,2018-05-24
+254,33991,348,Environmental Science PHD,Adminstration Account,2019-11-12
+255,40384,326,Geology PHD,Adminstration Account,2019-07-23
+256,41531,151,Astronomy PHD,Adminstration Account,2016-01-23
+257,38674,475,Anthropology PHD,Adminstration Account,2017-04-18
+258,34203,238,Archaeology PHD,Adminstration Account,2019-05-22
+259,42686,108,Education PHD,Adminstration Account,2012-11-10
+260,38912,436,Health Sciences PHD,Adminstration Account,2014-05-06
+261,39339,116,Nursing PHD,Adminstration Account,2015-06-19
+262,41559,367,Medicine PHD,Adminstration Account,2019-12-05
+263,37835,495,Dentistry PHD,Adminstration Account,2012-08-06
+264,34116,312,Pharmacy PHD,Adminstration Account,2022-05-03
+265,41226,478,Law PHD,Adminstration Account,2012-10-16
+266,32749,478,Theater PHD,Adminstration Account,2021-12-19
+267,39682,210,Dance PHD,Adminstration Account,2014-01-07
+268,39335,415,Physical Education PHD,Adminstration Account,2016-06-14
+269,33431,421,Nutrition PHD,Adminstration Account,2019-08-18
+270,33718,320,Communication Studies PHD,Adminstration Account,2021-12-06
+271,42729,344,Media Studies PHD,Adminstration Account,2021-08-31
+272,36240,300,Information Technology PHD,Adminstration Account,2021-10-13
+273,41030,317,Statistics PHD,Adminstration Account,2014-01-11
+274,39203,214,Geography PHD,Adminstration Account,2017-09-03
+275,38777,238,Urban Planning PHD,Adminstration Account,2017-09-20
+276,42497,543,Public Administration PHD,Adminstration Account,2023-05-29
+277,33300,250,Social Work PHD,Adminstration Account,2016-07-30
+278,38378,250,Criminal Justice PHD,Adminstration Account,2016-08-31
+279,40053,450,Religious Studies PHD,Adminstration Account,2012-11-04
+280,40378,164,Womens Studies PHD,Adminstration Account,2017-10-08
+281,39295,479,Gender Studies PHD,Adminstration Account,2014-07-23
+282,40966,360,Architecture PHD,Adminstration Account,2014-11-15
+283,35214,322,Urban Design PHD,Adminstration Account,2024-03-27
+284,36511,119,Linguistics PHD,Adminstration Account,2013-05-27
+285,38630,474,Public Health PHD,Adminstration Account,2023-07-23
+286,41879,220,Industrial Engineering PHD,Adminstration Account,2021-10-11
+287,33099,182,Mechanical Engineering PHD,Adminstration Account,2012-09-30
+288,32759,498,Civil Engineering PHD,Adminstration Account,2018-12-02
+289,33628,159,Electrical Engineering PHD,Adminstration Account,2017-11-21
+290,41582,156,Chemical Engineering PHD,Adminstration Account,2022-11-25
+291,35615,543,Materials Science and Engineering PHD,Adminstration Account,2023-12-10
+292,38313,195,Biomedical Engineering PHD,Adminstration Account,2013-06-02
+293,33086,528,Environmental Engineering PHD,Adminstration Account,2015-01-17
+294,32995,379,Computer Engineering PHD,Adminstration Account,2013-11-05
+295,37615,208,Robotics PHD,Adminstration Account,2016-10-06
+296,33002,513,Biotechnology PHD,Adminstration Account,2020-08-18
+297,37588,463,Bioinformatics PHD,Adminstration Account,2016-11-30
+298,39573,371,Neuroscience PHD,Adminstration Account,2013-03-24
+299,33273,192,Cognitive Science PHD,Adminstration Account,2018-02-03
+300,39456,354,Developmental Biology PHD,Adminstration Account,2017-11-06
+301,37279,449,Genomics PHD,Adminstration Account,2014-04-09
+302,36973,392,Humanities PHD,Adminstration Account,2024-02-08
+303,34862,473,Fine Arts PHD,Adminstration Account,2022-06-15
+304,39265,378,Graphic Design PHD,Adminstration Account,2013-08-13
+305,35337,524,Interior Design PHD,Adminstration Account,2013-10-04
+306,36943,302,Fashion Design PHD,Adminstration Account,2022-06-24
+307,36876,503,Industrial Design PHD,Adminstration Account,2016-07-02
+308,38273,205,Digital Media PHD,Adminstration Account,2014-01-08
+309,39427,369,Animation PHD,Adminstration Account,2016-01-10
+310,35066,292,Game Design PHD,Adminstration Account,2017-11-05
+311,39217,141,Sports Science PHD,Adminstration Account,2022-06-25
+312,33169,414,Kinesiology PHD,Adminstration Account,2017-09-25
+313,41407,472,Rehabilitation Science PHD,Adminstration Account,2019-07-07
+314,36314,534,Library Science PHD,Adminstration Account,2022-08-12
+315,32696,524,Information Science PHD,Adminstration Account,2015-03-13
+316,33591,250,Archival Science PHD,Adminstration Account,2019-12-20
+317,35734,440,Data Science PHD,Adminstration Account,2015-12-21
+318,40911,298,Machine Learning PHD,Adminstration Account,2023-03-07
+319,38790,318,Artificial Intelligence PHD,Adminstration Account,2021-10-17
+320,41192,242,Cybersecurity PHD,Adminstration Account,2019-06-11
+321,32959,266,Network Security PHD,Adminstration Account,2014-07-21
+322,39849,535,Forensic Science PHD,Adminstration Account,2012-08-24
+323,36982,323,Criminology PHD,Adminstration Account,2018-01-09
+324,33001,506,Counterterrorism PHD,Adminstration Account,2013-09-07
+325,40793,133,International Law PHD,Adminstration Account,2023-11-20
+326,41924,159,Human Rights Law PHD,Adminstration Account,2012-09-28
+327,39268,431,Intellectual Property Law PHD,Adminstration Account,2014-07-07
+328,38209,149,Health Law PHD,Adminstration Account,2017-04-26
+329,35793,152,Immigration Law PHD,Adminstration Account,2024-05-07
+330,37953,439,Family Law PHD,Adminstration Account,2013-12-10
+331,39112,130,Corporate Law PHD,Adminstration Account,2019-04-10
+332,34287,300,Real Estate Law PHD,Adminstration Account,2024-04-27
+333,38897,443,Tax Law PHD,Adminstration Account,2014-07-15
+334,42581,294,Maritime Law PHD,Adminstration Account,2019-11-13
+335,36445,360,Space Law PHD,Adminstration Account,2021-04-30
+336,34162,542,Mathematics P.Doc,Adminstration Account,2021-01-10
+337,32846,143,Physics P.Doc,Adminstration Account,2024-05-16
+338,35766,531,Agriculture P.Doc,Adminstration Account,2019-05-30
+339,37135,313,Animal Science P.Doc,Adminstration Account,2015-02-24
+340,36565,145,Food Science P.Doc,Adminstration Account,2013-01-18
+341,42039,280,Forestry P.Doc,Adminstration Account,2020-02-28
+342,33478,255,Marine Biology P.Doc,Adminstration Account,2019-04-11
+343,40466,406,Veterinary Medicine P.Doc,Adminstration Account,2020-06-02
+344,35434,118,Chemistry P.Doc,Adminstration Account,2022-06-20
+345,42275,484,Biology P.Doc,Adminstration Account,2015-07-11
+346,42628,438,Computer Science P.Doc,Adminstration Account,2022-09-17
+347,40499,469,Engineering P.Doc,Adminstration Account,2021-04-29
+348,38916,140,Psychology P.Doc,Adminstration Account,2022-10-31
+349,38807,224,Sociology P.Doc,Adminstration Account,2018-12-04
+350,37732,516,Economics P.Doc,Adminstration Account,2020-09-09
+351,37481,530,Political Science P.Doc,Adminstration Account,2022-02-03
+352,36785,524,History P.Doc,Adminstration Account,2020-03-23
+353,34205,241,English Literature P.Doc,Adminstration Account,2014-11-25
+354,36409,249,Foreign Languages P.Doc,Adminstration Account,2016-03-25
+355,37651,223,Philosophy P.Doc,Adminstration Account,2021-04-29
+356,40482,238,Art History P.Doc,Adminstration Account,2021-03-25
+357,34835,127,Music P.Doc,Adminstration Account,2016-01-29
+358,35237,539,Film Studies P.Doc,Adminstration Account,2018-09-13
+359,38061,326,Business Administration P.Doc,Adminstration Account,2021-03-07
+360,34032,506,Marketing P.Doc,Adminstration Account,2016-04-01
+361,41936,488,Finance P.Doc,Adminstration Account,2013-01-14
+362,42598,128,Accounting P.Doc,Adminstration Account,2020-08-22
+363,41290,472,Management P.Doc,Adminstration Account,2016-08-10
+364,36639,437,Human Resources P.Doc,Adminstration Account,2020-10-20
+365,42917,280,Entrepreneurship P.Doc,Adminstration Account,2019-05-25
+366,34480,484,Environmental Science P.Doc,Adminstration Account,2016-10-08
+367,35812,349,Geology P.Doc,Adminstration Account,2021-05-18
+368,40603,517,Astronomy P.Doc,Adminstration Account,2015-11-02
+369,37696,435,Anthropology P.Doc,Adminstration Account,2017-09-17
+370,37323,218,Archaeology P.Doc,Adminstration Account,2019-06-04
+371,38693,272,Education P.Doc,Adminstration Account,2024-02-13
+372,42640,110,Health Sciences P.Doc,Adminstration Account,2016-01-05
+373,39204,300,Nursing P.Doc,Adminstration Account,2021-05-15
+374,37432,402,Medicine P.Doc,Adminstration Account,2020-01-11
+375,32754,227,Dentistry P.Doc,Adminstration Account,2023-11-24
+376,34816,349,Pharmacy P.Doc,Adminstration Account,2017-12-20
+377,41023,388,Law P.Doc,Adminstration Account,2023-01-01
+378,38277,437,Theater P.Doc,Adminstration Account,2016-11-06
+379,42381,432,Dance P.Doc,Adminstration Account,2021-02-18
+380,40019,547,Physical Education P.Doc,Adminstration Account,2017-03-14
+381,33916,244,Nutrition P.Doc,Adminstration Account,2016-01-19
+382,35304,132,Communication Studies P.Doc,Adminstration Account,2020-06-16
+383,40165,283,Media Studies P.Doc,Adminstration Account,2021-08-12
+384,36654,174,Information Technology P.Doc,Adminstration Account,2023-10-08
+385,42724,374,Statistics P.Doc,Adminstration Account,2017-11-25
+386,37767,451,Geography P.Doc,Adminstration Account,2015-03-20
+387,38133,247,Urban Planning P.Doc,Adminstration Account,2022-12-08
+388,39720,276,Public Administration P.Doc,Adminstration Account,2012-11-17
+389,34049,118,Social Work P.Doc,Adminstration Account,2023-08-28
+390,38019,543,Criminal Justice P.Doc,Adminstration Account,2021-03-03
+391,33314,524,Religious Studies P.Doc,Adminstration Account,2014-10-08
+392,36339,277,Womens Studies P.Doc,Adminstration Account,2017-06-03
+393,36525,471,Gender Studies P.Doc,Adminstration Account,2013-04-24
+394,40881,162,Architecture P.Doc,Adminstration Account,2021-06-18
+395,41261,174,Urban Design P.Doc,Adminstration Account,2013-04-01
+396,42622,462,Linguistics P.Doc,Adminstration Account,2020-10-05
+397,35829,360,Public Health P.Doc,Adminstration Account,2019-05-28
+398,37740,534,Industrial Engineering P.Doc,Adminstration Account,2013-04-14
+399,35678,268,Mechanical Engineering P.Doc,Adminstration Account,2015-12-29
+400,35912,135,Civil Engineering P.Doc,Adminstration Account,2023-03-31
+401,42429,466,Electrical Engineering P.Doc,Adminstration Account,2016-08-26
+402,39977,386,Chemical Engineering P.Doc,Adminstration Account,2021-11-17
+403,37491,235,Materials Science and Engineering P.Doc,Adminstration Account,2019-07-27
+404,40841,415,Biomedical Engineering P.Doc,Adminstration Account,2016-06-17
+405,39539,209,Environmental Engineering P.Doc,Adminstration Account,2016-02-01
+406,38381,514,Computer Engineering P.Doc,Adminstration Account,2023-07-30
+407,39467,338,Robotics P.Doc,Adminstration Account,2019-01-05
+408,34511,217,Biotechnology P.Doc,Adminstration Account,2013-08-13
+409,38170,244,Bioinformatics P.Doc,Adminstration Account,2017-09-25
+410,35861,437,Neuroscience P.Doc,Adminstration Account,2015-12-16
+411,40481,439,Cognitive Science P.Doc,Adminstration Account,2018-04-23
+412,38245,282,Developmental Biology P.Doc,Adminstration Account,2023-06-23
+413,41766,282,Genomics P.Doc,Adminstration Account,2015-06-20
+414,42003,342,Humanities P.Doc,Adminstration Account,2013-06-25
+415,42980,310,Fine Arts P.Doc,Adminstration Account,2012-08-21
+416,40090,203,Graphic Design P.Doc,Adminstration Account,2020-12-18
+417,37479,376,Interior Design P.Doc,Adminstration Account,2022-05-16
+418,35195,365,Fashion Design P.Doc,Adminstration Account,2013-07-10
+419,36513,283,Industrial Design P.Doc,Adminstration Account,2023-01-29
+420,40889,224,Digital Media P.Doc,Adminstration Account,2017-01-08
+421,35639,126,Animation P.Doc,Adminstration Account,2015-03-11
+422,38454,324,Game Design P.Doc,Adminstration Account,2014-03-08
+423,35452,370,Sports Science P.Doc,Adminstration Account,2016-08-22
+424,41683,146,Kinesiology P.Doc,Adminstration Account,2021-12-23
+425,33057,129,Rehabilitation Science P.Doc,Adminstration Account,2013-04-17
+426,34178,113,Library Science P.Doc,Adminstration Account,2020-10-24
+427,34697,465,Information Science P.Doc,Adminstration Account,2015-07-08
+428,40250,472,Archival Science P.Doc,Adminstration Account,2014-07-23
+429,39057,256,Data Science P.Doc,Adminstration Account,2024-04-18
+430,36414,381,Machine Learning P.Doc,Adminstration Account,2022-04-22
+431,42494,106,Artificial Intelligence P.Doc,Adminstration Account,2022-10-17
+432,39476,460,Cybersecurity P.Doc,Adminstration Account,2013-09-12
+433,42410,437,Network Security P.Doc,Adminstration Account,2023-10-03
+434,39184,255,Forensic Science P.Doc,Adminstration Account,2013-08-14
+435,40488,317,Criminology P.Doc,Adminstration Account,2016-06-29
+436,40253,516,Counterterrorism P.Doc,Adminstration Account,2012-06-13
+437,42624,440,International Law P.Doc,Adminstration Account,2016-11-06
+438,37665,119,Human Rights Law P.Doc,Adminstration Account,2020-07-31
+439,38595,105,Intellectual Property Law P.Doc,Adminstration Account,2015-05-10
+440,34303,325,Health Law P.Doc,Adminstration Account,2023-08-11
+441,41389,477,Immigration Law P.Doc,Adminstration Account,2020-08-23
+442,36209,288,Family Law P.Doc,Adminstration Account,2014-08-13
+443,38845,162,Corporate Law P.Doc,Adminstration Account,2023-05-17
+444,33623,308,Real Estate Law P.Doc,Adminstration Account,2014-04-27
+445,37421,186,Tax Law P.Doc,Adminstration Account,2015-02-27
+446,34003,210,Maritime Law P.Doc,Adminstration Account,2017-07-30
+447,39671,259,Space Law P.Doc,Adminstration Account,2013-08-01
+448,42516,175,Mathematics Diploma,Adminstration Account,2023-11-05
+449,36258,521,Physics Diploma,Adminstration Account,2013-04-09
+450,37082,200,Agriculture Diploma,Adminstration Account,2016-03-09
+451,42824,301,Animal Science Diploma,Adminstration Account,2018-01-29
+452,36387,422,Food Science Diploma,Adminstration Account,2020-09-06
+453,34262,264,Forestry Diploma,Adminstration Account,2015-12-28
+454,41133,426,Marine Biology Diploma,Adminstration Account,2019-10-06
+455,38079,274,Veterinary Medicine Diploma,Adminstration Account,2020-02-23
+456,36169,194,Chemistry Diploma,Adminstration Account,2017-07-24
+457,33526,527,Biology Diploma,Adminstration Account,2023-02-26
+458,37034,271,Computer Science Diploma,Adminstration Account,2017-11-21
+459,34520,161,Engineering Diploma,Adminstration Account,2016-05-30
+460,41186,175,Psychology Diploma,Adminstration Account,2016-02-22
+461,38475,184,Sociology Diploma,Adminstration Account,2020-05-10
+462,42050,301,Economics Diploma,Adminstration Account,2017-05-21
+463,39851,390,Political Science Diploma,Adminstration Account,2015-01-22
+464,37110,347,History Diploma,Adminstration Account,2016-09-14
+465,33443,109,English Literature Diploma,Adminstration Account,2014-10-25
+466,41419,355,Foreign Languages Diploma,Adminstration Account,2015-02-17
+467,41903,479,Philosophy Diploma,Adminstration Account,2019-04-11
+468,37785,435,Art History Diploma,Adminstration Account,2018-05-30
+469,37276,133,Music Diploma,Adminstration Account,2016-07-16
+470,40981,105,Film Studies Diploma,Adminstration Account,2016-12-06
+471,35816,120,Business Administration Diploma,Adminstration Account,2023-01-27
+472,34404,537,Marketing Diploma,Adminstration Account,2014-07-24
+473,36718,328,Finance Diploma,Adminstration Account,2014-06-30
+474,36522,327,Accounting Diploma,Adminstration Account,2017-08-17
+475,35815,509,Management Diploma,Adminstration Account,2015-02-24
+476,42751,232,Human Resources Diploma,Adminstration Account,2023-01-17
+477,42991,454,Entrepreneurship Diploma,Adminstration Account,2016-10-26
+478,37361,364,Environmental Science Diploma,Adminstration Account,2021-10-23
+479,40741,242,Geology Diploma,Adminstration Account,2014-11-09
+480,39981,208,Astronomy Diploma,Adminstration Account,2023-06-15
+481,42990,426,Anthropology Diploma,Adminstration Account,2013-06-11
+482,36252,429,Archaeology Diploma,Adminstration Account,2015-09-26
+483,34799,532,Education Diploma,Adminstration Account,2015-06-12
+484,36417,355,Health Sciences Diploma,Adminstration Account,2014-01-09
+485,41245,423,Nursing Diploma,Adminstration Account,2017-06-22
+486,37211,483,Medicine Diploma,Adminstration Account,2023-01-14
+487,33434,134,Dentistry Diploma,Adminstration Account,2014-09-22
+488,38962,387,Pharmacy Diploma,Adminstration Account,2024-01-27
+489,34042,150,Law Diploma,Adminstration Account,2014-05-03
+490,34202,393,Theater Diploma,Adminstration Account,2015-06-02
+491,41417,524,Dance Diploma,Adminstration Account,2014-10-04
+492,40018,157,Physical Education Diploma,Adminstration Account,2020-04-29
+493,33864,318,Nutrition Diploma,Adminstration Account,2013-01-27
+494,35550,199,Communication Studies Diploma,Adminstration Account,2013-02-24
+495,41634,531,Media Studies Diploma,Adminstration Account,2022-06-29
+496,37437,542,Information Technology Diploma,Adminstration Account,2024-04-24
+497,38424,241,Statistics Diploma,Adminstration Account,2021-09-25
+498,37976,128,Geography Diploma,Adminstration Account,2015-06-08
+499,42218,307,Urban Planning Diploma,Adminstration Account,2015-11-26
+500,36396,333,Public Administration Diploma,Adminstration Account,2023-04-24
+501,38973,192,Social Work Diploma,Adminstration Account,2017-08-25
+502,35809,320,Criminal Justice Diploma,Adminstration Account,2013-11-24
+503,33888,414,Religious Studies Diploma,Adminstration Account,2019-05-29
+504,33152,173,Womens Studies Diploma,Adminstration Account,2015-05-01
+505,42998,498,Gender Studies Diploma,Adminstration Account,2013-01-15
+506,40022,508,Architecture Diploma,Adminstration Account,2018-03-19
+507,42514,270,Urban Design Diploma,Adminstration Account,2018-10-19
+508,37308,361,Linguistics Diploma,Adminstration Account,2021-04-04
+509,37571,542,Public Health Diploma,Adminstration Account,2015-07-04
+510,40050,327,Industrial Engineering Diploma,Adminstration Account,2023-02-19
+511,34152,447,Mechanical Engineering Diploma,Adminstration Account,2019-09-11
+512,33704,449,Civil Engineering Diploma,Adminstration Account,2013-10-17
+513,32881,465,Electrical Engineering Diploma,Adminstration Account,2013-01-02
+514,36879,369,Chemical Engineering Diploma,Adminstration Account,2017-04-29
+515,39243,371,Materials Science and Engineering Diploma,Adminstration Account,2015-02-04
+516,34755,488,Biomedical Engineering Diploma,Adminstration Account,2014-03-15
+517,35791,423,Environmental Engineering Diploma,Adminstration Account,2019-01-18
+518,36493,496,Computer Engineering Diploma,Adminstration Account,2023-06-27
+519,32762,140,Robotics Diploma,Adminstration Account,2022-08-21
+520,38839,397,Biotechnology Diploma,Adminstration Account,2016-01-12
+521,35361,318,Bioinformatics Diploma,Adminstration Account,2013-04-11
+522,39743,237,Neuroscience Diploma,Adminstration Account,2021-07-29
+523,34915,397,Cognitive Science Diploma,Adminstration Account,2022-06-17
+524,39705,366,Developmental Biology Diploma,Adminstration Account,2018-03-18
+525,39556,383,Genomics Diploma,Adminstration Account,2022-03-18
+526,37383,204,Humanities Diploma,Adminstration Account,2019-11-21
+527,39793,136,Fine Arts Diploma,Adminstration Account,2020-12-21
+528,39285,257,Graphic Design Diploma,Adminstration Account,2020-10-22
+529,40103,285,Interior Design Diploma,Adminstration Account,2023-09-11
+530,32562,374,Fashion Design Diploma,Adminstration Account,2018-09-02
+531,40109,451,Industrial Design Diploma,Adminstration Account,2022-08-09
+532,38722,389,Digital Media Diploma,Adminstration Account,2014-08-09
+533,37320,322,Animation Diploma,Adminstration Account,2019-07-07
+534,42318,268,Game Design Diploma,Adminstration Account,2022-09-12
+535,37243,441,Sports Science Diploma,Adminstration Account,2023-05-09
+536,40469,310,Kinesiology Diploma,Adminstration Account,2013-08-18
+537,34040,205,Rehabilitation Science Diploma,Adminstration Account,2020-10-10
+538,41456,389,Library Science Diploma,Adminstration Account,2016-10-03
+539,36468,204,Information Science Diploma,Adminstration Account,2015-09-08
+540,37141,222,Archival Science Diploma,Adminstration Account,2023-02-17
+541,42162,167,Data Science Diploma,Adminstration Account,2022-01-27
+542,39361,427,Machine Learning Diploma,Adminstration Account,2021-05-25
+543,41557,335,Artificial Intelligence Diploma,Adminstration Account,2023-02-18
+544,41255,425,Cybersecurity Diploma,Adminstration Account,2019-11-23
+545,32802,203,Network Security Diploma,Adminstration Account,2016-04-02
+546,40358,280,Forensic Science Diploma,Adminstration Account,2013-07-10
+547,38966,266,Criminology Diploma,Adminstration Account,2016-07-10
+548,34871,295,Counterterrorism Diploma,Adminstration Account,2015-09-06
+549,36837,333,International Law Diploma,Adminstration Account,2019-08-01
+550,39726,142,Human Rights Law Diploma,Adminstration Account,2023-08-05
+551,39966,366,Intellectual Property Law Diploma,Adminstration Account,2014-03-11
+552,41263,450,Health Law Diploma,Adminstration Account,2022-03-17
+553,38130,243,Immigration Law Diploma,Adminstration Account,2017-04-19
+554,39383,203,Family Law Diploma,Adminstration Account,2022-03-19
+555,34732,233,Corporate Law Diploma,Adminstration Account,2021-01-07
+556,36788,398,Real Estate Law Diploma,Adminstration Account,2024-03-02
+557,35499,516,Tax Law Diploma,Adminstration Account,2016-09-07
+558,33223,184,Maritime Law Diploma,Adminstration Account,2023-08-08
+559,38798,409,Space Law Diploma,Adminstration Account,2017-09-02
+560,35082,30,Late fee fine,Fund Collection Account,2023-08-06
+561,34674,100,University property damage,Fund Collection Account,2013-03-02
+562,36216,50,Attendence Fine,Fund Collection Account,2023-02-08
+563,35916,100,Extra Cariculum fee,Fund Collection Account,2021-01-24
+564,34119,50,Examination fee,Fund Collection Account,2020-01-26
